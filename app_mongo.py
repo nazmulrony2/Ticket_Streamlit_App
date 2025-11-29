@@ -381,28 +381,97 @@ elif page == "home" and st.session_state.logged_in:
 
 # ==================== REPORT PAGE ====================
 elif page == "report":
+    if not st.session_state.logged_in:
+        st.warning("Login required")
+        if st.button("Go to Login"): st.session_state.page = "login"; st.rerun()
+        st.stop()
+
     st.markdown("<h2>Report</h2>", unsafe_allow_html=True)
     if st.button("Home"): st.session_state.page = "home"; st.rerun()
 
-    # Excel Download
-    if st.button("সব রিপোর্ট একসাথে ডাউনলোড (Excel)", type="primary"):
-        df1 = pd.DataFrame(list(tickets.aggregate([...])))  # Full query same as below
-        df2 = get_seller_stats()
-        df3 = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+    # All-in-one download
+    if st.button("**সব রিপোর্ট একসাথে (Excel)**", type="primary"):
+        df_buyers = pd.DataFrame(list(tickets.aggregate([
+            {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
+            {"$unwind": "$e"},
+            {"$project": {"Employee Name": "$e.employee_name", "Employee ID": "$employee_id", "Total Tickets": "$total_quantity"}},
+            {"$sort": {"Total Tickets": -1}}
+        ])))
+        df_sellers = get_seller_stats()
+        df_log = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+
         output = io.BytesIO()
         with pd.ExcelWriter(output, engine='openpyxl') as writer:
-            df1.to_excel(writer, sheet_name="Buyers", index=False)
-            df2.to_excel(writer, sheet_name="Sellers", index=False)
-            df3.to_excel(writer, sheet_name="Log", index=False)
+            df_buyers.to_excel(writer, sheet_name="ক্রেতা", index=False)
+            df_sellers.to_excel(writer, sheet_name="বিক্রেতা", index=False)
+            df_log.to_excel(writer, sheet_name="লগ", index=False)
         output.seek(0)
-        st.download_button("Download All", output, "all_reports.xlsx")
+        st.download_button("Download All Reports", output, f"all_reports_{datetime.now().strftime('%Y%m%d_%H%M')}.xlsx", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
 
-    # Tabs & Summary (same as before) ...
+    st.markdown("---")
+    tab1, tab2, tab3 = st.tabs(["ক্রেতা", "বিক্রেতা", "লগ"])
 
-# ==================== ADMIN & FOOTER ====================
+    with tab1:
+        df = pd.DataFrame(list(tickets.aggregate([
+            {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
+            {"$unwind": "$e"},
+            {"$project": {"Employee Name": "$e.employee_name", "Employee ID": "$employee_id", "Total Tickets": "$total_quantity"}},
+            {"$sort": {"Total Tickets": -1}}
+        ])))
+        if not df.empty:
+            st.dataframe(df, use_container_width=True)
+            st.download_button("Download Buyers", to_excel(df), "buyers.xlsx")
+        else:
+            st.info("কোনো ক্রেতা নেই")
+
+    with tab2:
+        df = get_seller_stats()
+        if not df.empty:
+            for _, r in df.iterrows():
+                st.markdown(f"<span class='seller-badge'>{r['Seller']}</span> → {r['Tickets Sold']} টিকেট", unsafe_allow_html=True)
+            st.download_button("Download Sellers", to_excel(df), "sellers.xlsx")
+        else:
+            st.info("কোনো বিক্রয় নেই")
+
+    with tab3:
+        df = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+        if not df.empty:
+            st.dataframe(df, use_container_width=True)
+            st.download_button("Download Log", to_excel(df), "log.xlsx")
+        else:
+            st.info("কোনো লগ নেই")
+
+    st.markdown("### Summary")
+    total_emp, buyers, sold, remaining = get_stats()
+    c1, c2, c3, c4 = st.columns(4)
+    with c1: st.markdown(f"<div class='metric-card'><h3>{total_emp}</h3><p>মোট কর্মী</p></div>", unsafe_allow_html=True)
+    with c2: st.markdown(f"<div class='metric-card'><h3>{buyers}</h3><p>জন কিনেছে</p></div>", unsafe_allow_html=True)
+
+
+# ==================== ADMIN PAGE ====================
 elif page == "admin":
+    if not st.session_state.logged_in:
+        st.warning("Login required"); st.stop()
     st.markdown("<h2>Admin Panel</h2>", unsafe_allow_html=True)
     if st.button("Home"): st.session_state.page = "home"; st.rerun()
-    # Add admin form + summary cards (same as before)
 
-st.markdown("<div class='footer'>© 2025 | Max 10 tickets per employee | Edit Feature Active</div>", unsafe_allow_html=True)
+    with st.expander("Add New Admin"):
+        with st.form("add_admin"):
+            u = st.text_input("Username")
+            p = st.text_input("Password", type="password")
+            if st.form_submit_button("Add"):
+                if u and p and u.lower() != "admin":
+                    admins.insert_one({"username": u, "password": hash_password(p)})
+                    st.success("Admin added")
+                else:
+                    st.error("Invalid username")
+
+    st.markdown("### Summary")
+    total_emp, buyers, sold, remaining = get_stats()
+    c1, c2, c3, c4 = st.columns(4)
+    with c1: st.markdown(f"<div class='metric-card'><h3>{total_emp}</h3><p>মোট কর্মী</p></div>", unsafe_allow_html=True)
+    with c2: st.markdown(f"<div class='metric-card'><h3>{buyers}</h3><p>জন কিনেছে</p></div>", unsafe_allow_html=True)
+    with c3: st.markdown(f"<div class='metric-card'><h3>{sold}</h3><p>টিকেট বিক্রি</p></div>", unsafe_allow_html=True)
+    with c4: st.markdown(f"<div class='metric-card'><h3>{remaining}</h3><p>অবশিষ্ট</p></div>", unsafe_allow_html=True)
+# ==================== FOOTER (ALWAYS VISIBLE) ====================
+st.markdown("<div class='footer'>© 2025 | Max 10 tickets per employee</div>", unsafe_allow_html=True)
