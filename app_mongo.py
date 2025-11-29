@@ -418,5 +418,9 @@ elif page == "report":
 elif page == "admin":
     # your full admin page code (unchanged)
 
-# ==================== FOOTER ====================
-st.markdown("<div class='footer'>© 2025 | Max 10 tickets per employee</div>", unsafe_allow_html=True)
+
+# === FOOTER (always shown) ===
+st.markdown(
+    "<div class='footer'>© 2025 | Max 10 tickets per employee</div>",
+    unsafe_allow_html=True
+)
