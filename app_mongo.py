@@ -1,4 +1,4 @@
-# app.py → FINAL VERSION – READY TO DEPLOY TODAY (FREE)
+# app.py → FINAL 100% WORKING VERSION (MongoDB + Streamlit Cloud)
 import streamlit as st
 import pandas as pd
 import pymongo
@@ -11,10 +11,9 @@ import time
 st.set_page_config(page_title="টিকেট বিতরণ", layout="centered")
 MAX_TICKETS_PER_EMPLOYEE = 10
 TOTAL_TICKETS = 20000
-DEFAULT_ADMIN = {"username": "admin", "password": "admin123"}
 SESSION_TIMEOUT = timedelta(hours=2)
 
-# ==================== MONGO CONNECTION (YOUR CLUSTER) ====================
+# ==================== MONGO CONNECTION ====================
 client = pymongo.MongoClient(st.secrets["MONGO_URI"])
 db = client.ticketdb
 employees = db.employees
@@ -22,7 +21,7 @@ admins = db.admins
 tickets = db.tickets
 sales = db.sales
 
-# ==================== FULL CSS (EXACTLY YOURS) ====================
+# ==================== FULL CSS (YOUR BEAUTIFUL DESIGN) ====================
 st.markdown("""
 <style>
     /* -------------------------------------------------
@@ -260,7 +259,6 @@ def ensure_default_admin():
     admins.update_one({"username": "admin"}, {"$set": {"password": hash_password("admin123")}}, upsert=True)
 
 def check_login(u, p): return admins.find_one({"username": u, "password": hash_password(p)}) is not None
-def is_admin(u): return admins.find_one({"username": u}) is not None
 
 def get_employee(eid):
     doc = employees.find_one({"employee_id": str(eid)})
@@ -277,7 +275,7 @@ def add_sale(emp_id, name, qty, seller, remark=""):
     current = get_total_tickets(emp_id)
     tickets.update_one(
         {"employee_id": str(emp_id)},
-        {"$set": {"total_quantity": current + qty, "first_timestamp": ts}},
+        {"$set": {"total_quantity": current + qty}},
         upsert=True
     )
 
@@ -285,17 +283,22 @@ def get_stats():
     total_emp = employees.count_documents({})
     buyers = tickets.count_documents({})
     sold = next(tickets.aggregate([{"$group": {"_id": None, "total": {"$sum": "$total_quantity"}}}]), {"total": 0})["total"]
-    return total_emp, buyers, sold, max(0, TOTAL_TICKETS - sold)
+    remaining = max(0, TOTAL_TICKETS - sold)
+    return total_emp, buyers, sold, remaining
 
 def get_seller_stats():
     pipeline = [{"$group": {"_id": "$seller", "tickets_sold": {"$sum": "$quantity"}}}, {"$sort": {"tickets_sold": -1}}]
-    return pd.DataFrame(list(sales.aggregate(pipeline))).rename(columns={"_id": "Seller", "Tickets Sold": "tickets_sold"})
+    df = pd.DataFrame(list(sales.aggregate(pipeline)))
+    if not df.empty:
+        df = df.rename(columns={"_id": "Seller", "tickets_sold": "Tickets Sold"})
+    return df
 
 def to_excel(df, sheet="Sheet1"):
-    out = io.BytesIO()
-    df.to_excel(out, index=False, engine='openpyxl', sheet_name=sheet)
-    out.seek(0)
-    return out
+    output = io.BytesIO()
+    with pd.ExcelWriter(output, engine='openpyxl') as writer:
+        df.to_excel(writer, index=False, sheet_name=sheet)
+    output.seek(0)
+    return output
 
 ensure_default_admin()
 
@@ -312,7 +315,7 @@ if st.session_state.logged_in and st.session_state.login_time:
 
 page = st.session_state.page
 
-# ==================== LOGIN ====================
+# ==================== LOGIN PAGE ====================
 if page == "login":
     st.markdown("<h1>টিকেট বিক্রয় বুথ</h1>", unsafe_allow_html=True)
     st.info("নিচে সঠিক ইউজার ও পাসওয়ার্ড দিয়ে লগইন করুন")
@@ -330,7 +333,7 @@ if page == "login":
             else:
                 st.error("ভুল ইউজারনেম/পাসওয়ার্ড")
 
-# ==================== HOME PAGE (100% SAME) ====================
+# ==================== HOME PAGE ====================
 elif page == "home" and st.session_state.logged_in:
     st.markdown(f'<div class="header-card"><h2>Welcome, <strong>{st.session_state.username}</strong>!</h2></div>', unsafe_allow_html=True)
     col_main, col_side = st.columns([3, 1])
@@ -347,8 +350,7 @@ elif page == "home" and st.session_state.logged_in:
         if 'qty_value' not in st.session_state: st.session_state.qty_value = 0
 
         emp_id = st.text_input("Employee ID *", placeholder="21....", key="emp_id_input")
-        qty = st.number_input("Ticket Quantity *", min_value=0, max_value=10, step=1,
-                              value=st.session_state.qty_value, key="qty_input")
+        qty = st.number_input("Ticket Quantity *", min_value=0, max_value=10, step=1, value=st.session_state.qty_value, key="qty_input")
 
         if st.button("সাবমিট করুন", type="primary"):
             if not emp_id.strip():
@@ -363,7 +365,7 @@ elif page == "home" and st.session_state.logged_in:
                     current = get_total_tickets(emp_id)
                     new_total = current + qty
                     if new_total > MAX_TICKETS_PER_EMPLOYEE:
-                        st.error(f"সর্বোচ্চ {MAX_TICKETS_PER_PER_EMPLOYEE} টি। ইতিমধ্যে {current} টি আছে")
+                        st.error(f"সর্বোচ্চ {MAX_TICKETS_PER_EMPLOYEE} টি। ইতিমধ্যে {current} টি আছে")
                     elif current == 0:
                         add_sale(emp_id, name, qty, st.session_state.username)
                         st.success(f"সফল: {name} ({emp_id}) → {qty} টি টিকেট")
@@ -395,32 +397,93 @@ elif page == "home" and st.session_state.logged_in:
                     st.session_state.qty_value = 0
                     st.rerun()
 
-# ==================== REPORT & ADMIN PAGES (exact same logic) ====================
-# (Only the data loading parts changed – everything else identical to your code)
-
+# ==================== REPORT PAGE ====================
 elif page == "report":
-    # ... (your full report page code – just replace the 3 pd.read_sql blocks with these 3 lines):
-    df_buyers = pd.DataFrame(list(tickets.aggregate([
-        {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
-        {"$unwind": "$e"},
-        {"$project": {"Employee Name": "$e.employee_name", "Employee ID": "$employee_id", "Total Tickets": "$total_quantity"}},
-        {"$sort": {"Total Tickets": -1}}
-    ])))
+    if not st.session_state.logged_in:
+        st.warning("Login required")
+        if st.button("Go to Login"): st.session_state.page = "login"; st.rerun()
+        st.stop()
 
-    df_sellers = get_seller_stats()
-    if not df_sellers.empty:
-        df_sellers.columns = ['Seller', 'Tickets Sold']
+    st.markdown("<h2>Report</h2>", unsafe_allow_html=True)
+    if st.button("Home"): st.session_state.page = "home"; st.rerun()
 
-    df_log = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+    # All-in-one download
+    if st.button("**সব রিপোর্ট একসাথে (Excel)**", type="primary"):
+        df_buyers = pd.DataFrame(list(tickets.aggregate([
+            {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
+            {"$unwind": "$e"},
+            {"$project": {"Employee Name": "$e.employee_name", "Employee ID": "$employee_id", "Total Tickets": "$total_quantity"}},
+            {"$sort": {"Total Tickets": -1}}
+        ])))
+        df_sellers = get_seller_stats()
+        df_log = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
 
-    # Rest of your report page (tabs, download buttons, summary cards) → paste exactly as before
+        output = io.BytesIO()
+        with pd.ExcelWriter(output, engine='openpyxl') as writer:
+            df_buyers.to_excel(writer, sheet_name="ক্রেতা", index=False)
+            df_sellers.to_excel(writer, sheet_name="বিক্রেতা", index=False)
+            df_log.to_excel(writer, sheet_name="লগ", index=False)
+        output.seek(0)
+        st.download_button("Download All Reports", output, f"all_reports_{datetime.now().strftime('%Y%m%d_%H%M')}.xlsx", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
 
+    st.markdown("---")
+    tab1, tab2, tab3 = st.tabs(["ক্রেতা", "বিক্রেতা", "লগ"])
+
+    with tab1:
+        df = pd.DataFrame(list(tickets.aggregate([
+            {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
+            {"$unwind": "$e"},
+            {"$project": {"Employee Name": "$e.employee_name", "Employee ID": "$employee_id", "Total Tickets": "$total_quantity"}},
+            {"$sort": {"Total Tickets": -1}}
+        ])))
+        if not df.empty:
+            st.dataframe(df, use_container_width=True)
+            st.download_button("Download Buyers", to_excel(df), "buyers.xlsx")
+        else:
+            st.info("কোনো ক্রেতা নেই")
+
+    with tab2:
+        df = get_seller_stats()
+        if not df.empty:
+            for _, r in df.iterrows():
+                st.markdown(f"<span class='seller-badge'>{r['Seller']}</span> → {r['Tickets Sold']} টিকেট", unsafe_allow_html=True)
+            st.download_button("Download Sellers", to_excel(df), "sellers.xlsx")
+        else:
+            st.info("কোনো বিক্রয় নেই")
+
+    with tab3:
+        df = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+        if not df.empty:
+            st.dataframe(df, use_container_width=True)
+            st.download_button("Download Log", to_excel(df), "log.xlsx")
+        else:
+            st.info("কোনো লগ নেই")
+
+    st.markdown("### Summary")
+    total_emp, buyers, sold, remaining = get_stats()
+    c1, c2, c3, c4 = st.columns(4)
+    with c1: st.markdown(f"<div class='metric-card'><h3>{total_emp}</h3><p>মোট কর্মী</p></div>", unsafe_allow_html=True)
+    with c2: st.markdown(f"<div class='metric-card'><h3>{buyers}</h3><p>জন কিনেছে</p></div>", unsafe_allow_html=True)
+    with c3: st.markdown(f"<div class='metric-card'><h3>{sold}</h3><p>টিকেট বিক্রি</p></div>", unsafe_allow_html=True)
+    with c4: st.markdown(f"<div class='metric-card'><h3>{remaining}</h3><p>অবশিষ্ট</p></div>", unsafe_allow_html=True)
+
+# ==================== ADMIN PAGE ====================
 elif page == "admin":
-    # your full admin page code (unchanged)
+    if not st.session_state.logged_in:
+        st.warning("Login required"); st.stop()
+    st.markdown("<h2>Admin Panel</h2>", unsafe_allow_html=True)
+    if st.button("Home"): st.session_state.page = "home"; st.rerun()
 
+    with st.expander("Add New Admin"):
+        with st.form("add_admin"):
+            u = st.text_input("Username")
+            p = st.text_input("Password", type="password")
+            if st.form_submit_button("Add"):
+                if u and p and u.lower() != "admin":
+                    admins.insert_one({"username": u, "password": hash_password(p)})
+                    st.success("Admin added")
+                else:
+                    st.error("Invalid username")
 
-# === FOOTER (always shown) ===
-st.markdown(
-    "<div class='footer'>© 2025 | Max 10 tickets per employee</div>",
-    unsafe_allow_html=True
-)
+# ==================== FOOTER (ALWAYS VISIBLE) ====================
+st.markdown("<div class='footer'>© 2025 | Max 10 tickets per employee</div>", unsafe_allow_html=True)
