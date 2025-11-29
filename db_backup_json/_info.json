@@ -1,0 +1,12 @@
+{
+  "exported_at": "2025-11-29 08:41 PM",
+  "source_db": "ticket_distribution.db",
+  "total_tables": 5,
+  "tables": [
+    "admins",
+    "tickets",
+    "sales",
+    "sqlite_sequence",
+    "employees"
+  ]
+}

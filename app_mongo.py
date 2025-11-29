@@ -1,11 +1,10 @@
-# app.py → FINAL 100% WORKING VERSION (MongoDB + Streamlit Cloud)
+# app.py → FINAL VERSION WITH CORRECT LAST ENTRY ORDER (by MongoDB _id)
 import streamlit as st
 import pandas as pd
 import pymongo
 from datetime import datetime, timedelta
 import hashlib
 import io
-import time
 
 # ==================== CONFIG ====================
 st.set_page_config(page_title="টিকেট বিতরণ", layout="centered")
@@ -166,16 +165,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ================================================
-   10. WARNING & FOOTER
+   10. FOOTER
    ================================================ */
-.warning-box {
-    background: rgba(254,249,195,0.95) !important;
-    border-left: 5px solid #facc15 !important;
-    padding: 1.1rem !important;
-    border-radius: 10px !important;
-    margin: 1.2rem 0 !important;
-    box-shadow: 0 4px 12px rgba(250,204,21,0.15);
-}
 .footer {
     text-align: center !important;
     margin-top: 2.5rem !important;
@@ -186,23 +177,6 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 12px !important;
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
     border: 1px solid rgba(0,0,0,0.05);
-}
-
-/* ================================================
-   11. ALERTS (Success, Error, etc.)
-   ================================================ */
-.stAlert { border-radius: 10px !important; padding: 0.9rem !important; }
-.stSuccess { background: #f0fdf4 !important; border: 1px solid #bbf7d0 !important; }
-.stError   { background: #fef2f2 !important; border: 1px solid #fecaca !important; }
-
-/* ================================================
-   12. MOBILE RESPONSIVE
-   ================================================ */
-@media (max-width: 600px) {
-    .block-container { padding: 1.2rem !important; }
-    .stButton > button { font-size: 0.95rem !important; padding: 0.7rem !important; }
-    .header-card h2 { font-size: 1.4rem; }
-    .metric-card h3 { font-size: 1.5rem; }
 }
 </style>
 """, unsafe_allow_html=True)
@@ -241,17 +215,14 @@ def edit_sale(sale_id, new_emp_id, new_name, new_qty, editor, edit_remark):
     if not old_sale: return False
     old_qty, old_emp_id = old_sale["quantity"], old_sale["employee_id"]
 
-    # Reverse old
     old_total = get_total_tickets(old_emp_id)
     tickets.update_one({"employee_id": old_emp_id}, {"$set": {"total_quantity": old_total - old_qty}})
     if old_total - old_qty <= 0:
         tickets.delete_one({"employee_id": old_emp_id})
 
-    # Apply new
     new_total = get_total_tickets(new_emp_id)
     tickets.update_one({"employee_id": new_emp_id}, {"$set": {"total_quantity": new_total + new_qty}}, upsert=True)
 
-    # Update log
     sales.update_one({"_id": sale_id}, {"$set": {
         "employee_id": str(new_emp_id), "employee_name": new_name, "quantity": new_qty,
         "edited": True, "edit_remark": f"Edited by {editor}: {edit_remark}",
@@ -338,9 +309,9 @@ elif page == "home" and st.session_state.logged_in:
                 st.success(f"সফল: {name} ({emp_id}) → {qty} টি টিকেট")
                 st.rerun()
 
-        # Last 5 Entries
+        # Last 5 Entries – NOW SORTED BY _id (REAL last transaction first)
         st.markdown("### সর্বশেষ ৫টি এন্ট্রি")
-        recent = list(sales.find().sort("timestamp", -1).limit(5))
+        recent = list(sales.find().sort("_id", -1).limit(5))   # ← এখানে পরিবর্তন
         if recent:
             for s in recent:
                 badge = "Edited" if s.get("edited") else "New"
@@ -389,7 +360,6 @@ elif page == "report":
     st.markdown("<h2>Report</h2>", unsafe_allow_html=True)
     if st.button("Home"): st.session_state.page = "home"; st.rerun()
 
-    # All-in-one download
     if st.button("**সব রিপোর্ট একসাথে (Excel)**", type="primary"):
         df_buyers = pd.DataFrame(list(tickets.aggregate([
             {"$lookup": {"from": "employees", "localField": "employee_id", "foreignField": "employee_id", "as": "e"}},
@@ -398,7 +368,7 @@ elif page == "report":
             {"$sort": {"Total Tickets": -1}}
         ])))
         df_sellers = get_seller_stats()
-        df_log = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+        df_log = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("_id", -1)))  # ← এখানেও পরিবর্তন
 
         output = io.BytesIO()
         with pd.ExcelWriter(output, engine='openpyxl') as writer:
@@ -434,7 +404,7 @@ elif page == "report":
             st.info("কোনো বিক্রয় নেই")
 
     with tab3:
-        df = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("timestamp", -1)))
+        df = pd.DataFrame(list(sales.find({}, {"_id": 0}).sort("_id", -1)))  # ← এখানেও পরিবর্তন
         if not df.empty:
             st.dataframe(df, use_container_width=True)
             st.download_button("Download Log", to_excel(df), "log.xlsx")
@@ -446,7 +416,8 @@ elif page == "report":
     c1, c2, c3, c4 = st.columns(4)
     with c1: st.markdown(f"<div class='metric-card'><h3>{total_emp}</h3><p>মোট কর্মী</p></div>", unsafe_allow_html=True)
     with c2: st.markdown(f"<div class='metric-card'><h3>{buyers}</h3><p>জন কিনেছে</p></div>", unsafe_allow_html=True)
-
+    with c3: st.markdown(f"<div class='metric-card'><h3>{sold}</h3><p>টিকেট বিক্রি</p></div>", unsafe_allow_html=True)
+    with c4: st.markdown(f"<div class='metric-card'><h3>{remaining}</h3><p>অবশিষ্ট</p></div>", unsafe_allow_html=True)
 
 # ==================== ADMIN PAGE ====================
 elif page == "admin":
@@ -473,5 +444,6 @@ elif page == "admin":
     with c2: st.markdown(f"<div class='metric-card'><h3>{buyers}</h3><p>জন কিনেছে</p></div>", unsafe_allow_html=True)
     with c3: st.markdown(f"<div class='metric-card'><h3>{sold}</h3><p>টিকেট বিক্রি</p></div>", unsafe_allow_html=True)
     with c4: st.markdown(f"<div class='metric-card'><h3>{remaining}</h3><p>অবশিষ্ট</p></div>", unsafe_allow_html=True)
-# ==================== FOOTER (ALWAYS VISIBLE) ====================
+
+# ==================== FOOTER ====================
 st.markdown("<div class='footer'>© 2025 | Max 10 tickets per employee</div>", unsafe_allow_html=True)

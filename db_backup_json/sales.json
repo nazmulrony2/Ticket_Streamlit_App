@@ -1,0 +1,5357 @@
+[
+  {
+    "id": 1,
+    "employee_id": "210679",
+    "employee_name": "Md. Nazmul Huda Roni",
+    "quantity": 1,
+    "seller": "admin",
+    "remark": "",
+    "timestamp": "26 Nov 2025, 09:35 PM"
+  },
+  {
+    "id": 2,
+    "employee_id": "230134",
+    "employee_name": "Meheraj Ahmed Mamun",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 10:52 AM"
+  },
+  {
+    "id": 3,
+    "employee_id": "160594",
+    "employee_name": "Md. Al-Amin Hossain",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 10:56 AM"
+  },
+  {
+    "id": 4,
+    "employee_id": "220678",
+    "employee_name": "Santosh Kumar Ray",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 11:00 AM"
+  },
+  {
+    "id": 5,
+    "employee_id": "250329",
+    "employee_name": "Md. Khaleq",
+    "quantity": 1,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 11:30 AM"
+  },
+  {
+    "id": 6,
+    "employee_id": "240251",
+    "employee_name": "Md. Mofizur Rahman",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 11:45 AM"
+  },
+  {
+    "id": 7,
+    "employee_id": "80156",
+    "employee_name": "Robiul Islam",
+    "quantity": 3,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 11:48 AM"
+  },
+  {
+    "id": 8,
+    "employee_id": "130297",
+    "employee_name": "Mozammel Chowdhury",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 12:00 PM"
+  },
+  {
+    "id": 9,
+    "employee_id": "210846",
+    "employee_name": "Pritam Majumder",
+    "quantity": 8,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 12:11 PM"
+  },
+  {
+    "id": 10,
+    "employee_id": "240136",
+    "employee_name": "Md. Anamul Haque",
+    "quantity": 3,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 12:12 PM"
+  },
+  {
+    "id": 11,
+    "employee_id": "220117",
+    "employee_name": "Md. Sohag Mia",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 12:32 PM"
+  },
+  {
+    "id": 12,
+    "employee_id": "190301",
+    "employee_name": "Alfaz",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:02 PM"
+  },
+  {
+    "id": 13,
+    "employee_id": "160195",
+    "employee_name": "Md. Shamem Mia",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:03 PM"
+  },
+  {
+    "id": 14,
+    "employee_id": "231073",
+    "employee_name": "Habibul Islam",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:06 PM"
+  },
+  {
+    "id": 15,
+    "employee_id": "70044",
+    "employee_name": "Liton Kharati",
+    "quantity": 1,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:09 PM"
+  },
+  {
+    "id": 16,
+    "employee_id": "230805",
+    "employee_name": "Md. Sabuj Mia",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:10 PM"
+  },
+  {
+    "id": 17,
+    "employee_id": "231116",
+    "employee_name": "Md. Shahin Mia",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:16 PM"
+  },
+  {
+    "id": 18,
+    "employee_id": "200347",
+    "employee_name": "Harunar Rashid",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:26 PM"
+  },
+  {
+    "id": 19,
+    "employee_id": "250366",
+    "employee_name": "Md. Shakil Hossain",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:27 PM"
+  },
+  {
+    "id": 20,
+    "employee_id": "150490",
+    "employee_name": "Md. Rasel Uddin",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:28 PM"
+  },
+  {
+    "id": 21,
+    "employee_id": "230114",
+    "employee_name": "Md.Mostafizur Rahaman",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:30 PM"
+  },
+  {
+    "id": 22,
+    "employee_id": "230805",
+    "employee_name": "Md. Sabuj Mia",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "taka chelo na",
+    "timestamp": "27 Nov 2025, 01:31 PM"
+  },
+  {
+    "id": 23,
+    "employee_id": "160304",
+    "employee_name": "Md. Kamrul Islam",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:32 PM"
+  },
+  {
+    "id": 24,
+    "employee_id": "210912",
+    "employee_name": "Md Arash Ali",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:33 PM"
+  },
+  {
+    "id": 25,
+    "employee_id": "230676",
+    "employee_name": "Md. Sifatul Islam",
+    "quantity": 3,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:34 PM"
+  },
+  {
+    "id": 26,
+    "employee_id": "240140",
+    "employee_name": "Md. Khayrul Sheikh",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:36 PM"
+  },
+  {
+    "id": 27,
+    "employee_id": "240016",
+    "employee_name": "Tazul Islam Rana",
+    "quantity": 1,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:42 PM"
+  },
+  {
+    "id": 28,
+    "employee_id": "90113",
+    "employee_name": "Md. Ratan  Miah",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:47 PM"
+  },
+  {
+    "id": 29,
+    "employee_id": "150392",
+    "employee_name": "Md. Dulal Uddin",
+    "quantity": 3,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:48 PM"
+  },
+  {
+    "id": 30,
+    "employee_id": "230011",
+    "employee_name": "Md. Moynul Haque",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:52 PM"
+  },
+  {
+    "id": 31,
+    "employee_id": "210405",
+    "employee_name": "Md. Shakil Ahmed",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:53 PM"
+  },
+  {
+    "id": 32,
+    "employee_id": "210860",
+    "employee_name": "Md. Mikail",
+    "quantity": 4,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:54 PM"
+  },
+  {
+    "id": 33,
+    "employee_id": "210162",
+    "employee_name": "Ahammad Ali",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 34,
+    "employee_id": "231338",
+    "employee_name": "Md. Alamin",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:05 PM"
+  },
+  {
+    "id": 35,
+    "employee_id": "100016",
+    "employee_name": "Aminul Islam",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:06 PM"
+  },
+  {
+    "id": 36,
+    "employee_id": "220445",
+    "employee_name": "Md. Ferdous Alam",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:11 PM"
+  },
+  {
+    "id": 37,
+    "employee_id": "170475",
+    "employee_name": "Afzal Hossain",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 38,
+    "employee_id": "150242",
+    "employee_name": "Rasidul Islam",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:13 PM"
+  },
+  {
+    "id": 39,
+    "employee_id": "180500",
+    "employee_name": "Hadiul Islam",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:18 PM"
+  },
+  {
+    "id": 40,
+    "employee_id": "230682",
+    "employee_name": "Md. Ziban Hossain",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:18 PM"
+  },
+  {
+    "id": 41,
+    "employee_id": "210652",
+    "employee_name": "Md. Ruhul Amin",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:22 PM"
+  },
+  {
+    "id": 42,
+    "employee_id": "220536",
+    "employee_name": "Jamal Uddin",
+    "quantity": 2,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:23 PM"
+  },
+  {
+    "id": 43,
+    "employee_id": "210770",
+    "employee_name": "Md. Zohurul Islam",
+    "quantity": 5,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:28 PM"
+  },
+  {
+    "id": 44,
+    "employee_id": "150095",
+    "employee_name": "Md Azizul Islam",
+    "quantity": 10,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:36 PM"
+  },
+  {
+    "id": 45,
+    "employee_id": "210500",
+    "employee_name": "Nazmul Hossain",
+    "quantity": 4,
+    "seller": "badal",
+    "remark": "",
+    "timestamp": "27 Nov 2025, 02:44 PM"
+  },
+  {
+    "id": 46,
+    "employee_id": "220038",
+    "employee_name": "Md. Zahidul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:32 AM"
+  },
+  {
+    "id": 47,
+    "employee_id": "190255",
+    "employee_name": "Joshim Uddin Ahammed",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:35 AM"
+  },
+  {
+    "id": 48,
+    "employee_id": "231130",
+    "employee_name": "Md. Abdur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:38 AM"
+  },
+  {
+    "id": 49,
+    "employee_id": "170016",
+    "employee_name": "Md. Rafiqul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:39 AM"
+  },
+  {
+    "id": 50,
+    "employee_id": "210901",
+    "employee_name": "Md. Hasnain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:48 AM"
+  },
+  {
+    "id": 51,
+    "employee_id": "220179",
+    "employee_name": "Md. Al-Amin Howlader",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:51 AM"
+  },
+  {
+    "id": 52,
+    "employee_id": "180851",
+    "employee_name": "Md. Ruhul Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:52 AM"
+  },
+  {
+    "id": 53,
+    "employee_id": "220033",
+    "employee_name": "Md. Suhag Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:54 AM"
+  },
+  {
+    "id": 54,
+    "employee_id": "220190",
+    "employee_name": "Md. Ashik",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 10:56 AM"
+  },
+  {
+    "id": 55,
+    "employee_id": "231532",
+    "employee_name": "Md. Abu Bakkar Siddik",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:03 AM"
+  },
+  {
+    "id": 56,
+    "employee_id": "190528",
+    "employee_name": "Mobarok Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:05 AM"
+  },
+  {
+    "id": 57,
+    "employee_id": "180590",
+    "employee_name": "Md. Sohel Rana",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:11 AM"
+  },
+  {
+    "id": 58,
+    "employee_id": "200106",
+    "employee_name": "Md. Saiful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:16 AM"
+  },
+  {
+    "id": 59,
+    "employee_id": "231313",
+    "employee_name": "Sydur Rahman",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:17 AM"
+  },
+  {
+    "id": 60,
+    "employee_id": "130017",
+    "employee_name": "Abu Musa",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:19 AM"
+  },
+  {
+    "id": 61,
+    "employee_id": "170581",
+    "employee_name": "Md. Sajib Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:21 AM"
+  },
+  {
+    "id": 62,
+    "employee_id": "161322",
+    "employee_name": "Md. Jakirul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:22 AM"
+  },
+  {
+    "id": 63,
+    "employee_id": "230311",
+    "employee_name": "Sumon Marak",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:23 AM"
+  },
+  {
+    "id": 64,
+    "employee_id": "160459",
+    "employee_name": "Md Uzzal Shekh",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:26 AM"
+  },
+  {
+    "id": 65,
+    "employee_id": "170971",
+    "employee_name": "Mahfujar Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:26 AM"
+  },
+  {
+    "id": 66,
+    "employee_id": "230547",
+    "employee_name": "Kamal",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:27 AM"
+  },
+  {
+    "id": 67,
+    "employee_id": "100061",
+    "employee_name": "Md. Akter Hossen",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:28 AM"
+  },
+  {
+    "id": 68,
+    "employee_id": "180784",
+    "employee_name": "Md. Turiqul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:28 AM"
+  },
+  {
+    "id": 69,
+    "employee_id": "140452",
+    "employee_name": "Md. Taizul Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:29 AM"
+  },
+  {
+    "id": 70,
+    "employee_id": "220338",
+    "employee_name": "Rajib Hossain",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:29 AM"
+  },
+  {
+    "id": 71,
+    "employee_id": "231268",
+    "employee_name": "Md. Metul Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:34 AM"
+  },
+  {
+    "id": 72,
+    "employee_id": "161197",
+    "employee_name": "Razib Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:35 AM"
+  },
+  {
+    "id": 73,
+    "employee_id": "210631",
+    "employee_name": "Md. Robiul Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:37 AM"
+  },
+  {
+    "id": 74,
+    "employee_id": "160530",
+    "employee_name": "Bakul Mallik",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:37 AM"
+  },
+  {
+    "id": 75,
+    "employee_id": "80013",
+    "employee_name": "Md. Dulal Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:38 AM"
+  },
+  {
+    "id": 76,
+    "employee_id": "220265",
+    "employee_name": "Md. Moshiur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 77,
+    "employee_id": "80083",
+    "employee_name": "Md Shaha Alam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 78,
+    "employee_id": "140443",
+    "employee_name": "Md. Salim Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:40 AM"
+  },
+  {
+    "id": 79,
+    "employee_id": "140276",
+    "employee_name": "Md. Nurul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:40 AM"
+  },
+  {
+    "id": 80,
+    "employee_id": "200414",
+    "employee_name": "Md. Apple Mahmud",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:42 AM"
+  },
+  {
+    "id": 81,
+    "employee_id": "231046",
+    "employee_name": "Md. Bipul Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 82,
+    "employee_id": "230086",
+    "employee_name": "Md. Anayet Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 83,
+    "employee_id": "161376",
+    "employee_name": "Md Shahanur",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:46 AM"
+  },
+  {
+    "id": 84,
+    "employee_id": "80060",
+    "employee_name": "Mohammad Saidul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:49 AM"
+  },
+  {
+    "id": 85,
+    "employee_id": "220323",
+    "employee_name": "Hridoy Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:51 AM"
+  },
+  {
+    "id": 86,
+    "employee_id": "130272",
+    "employee_name": "Md. Ekhlas Uddin",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:52 AM"
+  },
+  {
+    "id": 87,
+    "employee_id": "140452",
+    "employee_name": "Md. Taizul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 11:53 AM"
+  },
+  {
+    "id": 88,
+    "employee_id": "210860",
+    "employee_name": "Md. Mikail",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 11:56 AM"
+  },
+  {
+    "id": 89,
+    "employee_id": "230049",
+    "employee_name": "Md. Rezaul Karim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:58 AM"
+  },
+  {
+    "id": 90,
+    "employee_id": "130112",
+    "employee_name": "Md. Polash Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:59 AM"
+  },
+  {
+    "id": 91,
+    "employee_id": "220129",
+    "employee_name": "Md. Ariful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 11:59 AM"
+  },
+  {
+    "id": 92,
+    "employee_id": "250252",
+    "employee_name": "Md. Tanjir Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:00 PM"
+  },
+  {
+    "id": 93,
+    "employee_id": "140298",
+    "employee_name": "Md. Samir Uddin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:01 PM"
+  },
+  {
+    "id": 94,
+    "employee_id": "230136",
+    "employee_name": "Md. Ridoy Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:03 PM"
+  },
+  {
+    "id": 95,
+    "employee_id": "170301",
+    "employee_name": "Sukul Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:06 PM"
+  },
+  {
+    "id": 96,
+    "employee_id": "170301",
+    "employee_name": "Sukul Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "no",
+    "timestamp": "28 Nov 2025, 12:08 PM"
+  },
+  {
+    "id": 97,
+    "employee_id": "230735",
+    "employee_name": "Md. Nazmul Hasan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:08 PM"
+  },
+  {
+    "id": 98,
+    "employee_id": "230617",
+    "employee_name": "Al-Amin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:09 PM"
+  },
+  {
+    "id": 99,
+    "employee_id": "250275",
+    "employee_name": "Shamim Hossain",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:09 PM"
+  },
+  {
+    "id": 100,
+    "employee_id": "160651",
+    "employee_name": "Md. Abdul Malek",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:10 PM"
+  },
+  {
+    "id": 101,
+    "employee_id": "60006",
+    "employee_name": "Md. Ahsan Habib",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:10 PM"
+  },
+  {
+    "id": 102,
+    "employee_id": "190033",
+    "employee_name": "Md. Morshed Parves",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:16 PM"
+  },
+  {
+    "id": 103,
+    "employee_id": "90056",
+    "employee_name": "Md. Farid Miah",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 12:16 PM"
+  },
+  {
+    "id": 104,
+    "employee_id": "210653",
+    "employee_name": "Md. Ratan Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:44 PM"
+  },
+  {
+    "id": 105,
+    "employee_id": "230222",
+    "employee_name": "Md. Ariful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:45 PM"
+  },
+  {
+    "id": 106,
+    "employee_id": "150393",
+    "employee_name": "Md Shahajalal",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:45 PM"
+  },
+  {
+    "id": 107,
+    "employee_id": "220463",
+    "employee_name": "Md. Jiarul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:47 PM"
+  },
+  {
+    "id": 108,
+    "employee_id": "190033",
+    "employee_name": "Md. Morshed Parves",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 01:48 PM"
+  },
+  {
+    "id": 109,
+    "employee_id": "190615",
+    "employee_name": "Abul Kalam Azad",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:50 PM"
+  },
+  {
+    "id": 110,
+    "employee_id": "160429",
+    "employee_name": "Md. Asadul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:51 PM"
+  },
+  {
+    "id": 111,
+    "employee_id": "231177",
+    "employee_name": "Md. Mamun Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:51 PM"
+  },
+  {
+    "id": 112,
+    "employee_id": "170454",
+    "employee_name": "Md. Abdul Khaleak",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:52 PM"
+  },
+  {
+    "id": 113,
+    "employee_id": "100029",
+    "employee_name": "Md. Zahagir Alam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:53 PM"
+  },
+  {
+    "id": 114,
+    "employee_id": "170362",
+    "employee_name": "Pias Hembrom",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:54 PM"
+  },
+  {
+    "id": 115,
+    "employee_id": "160594",
+    "employee_name": "Md. Al-Amin Hossain",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 01:57 PM"
+  },
+  {
+    "id": 116,
+    "employee_id": "210576",
+    "employee_name": "Md. Abu Taher",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 117,
+    "employee_id": "170700",
+    "employee_name": "Md. Shahzahan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 118,
+    "employee_id": "150184",
+    "employee_name": "Md. Nazmul Haque Mulla",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 119,
+    "employee_id": "240168",
+    "employee_name": "Md. Hasibur Rahaman Sarman",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:00 PM"
+  },
+  {
+    "id": 120,
+    "employee_id": "220677",
+    "employee_name": "Md. Jabed Hossen",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "id": 121,
+    "employee_id": "231212",
+    "employee_name": "Bappy Kumar Roy",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "id": 122,
+    "employee_id": "210284",
+    "employee_name": "Md. Golam Mostufa",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "id": 123,
+    "employee_id": "230896",
+    "employee_name": "Md. Mizarul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:04 PM"
+  },
+  {
+    "id": 124,
+    "employee_id": "130369",
+    "employee_name": "Md. Saddam Hosun",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:05 PM"
+  },
+  {
+    "id": 125,
+    "employee_id": "220242",
+    "employee_name": "Jakarea Hossen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:06 PM"
+  },
+  {
+    "id": 126,
+    "employee_id": "230862",
+    "employee_name": "Md. Aminul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:06 PM"
+  },
+  {
+    "id": 127,
+    "employee_id": "200511",
+    "employee_name": "Md. Shopan Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:07 PM"
+  },
+  {
+    "id": 128,
+    "employee_id": "250025",
+    "employee_name": "Md. Jony",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:08 PM"
+  },
+  {
+    "id": 129,
+    "employee_id": "180338",
+    "employee_name": "Md. Mamun Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:08 PM"
+  },
+  {
+    "id": 130,
+    "employee_id": "130337",
+    "employee_name": "Zakir Hossain",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:08 PM"
+  },
+  {
+    "id": 131,
+    "employee_id": "170220",
+    "employee_name": "Md. Obawdullah Haq",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:09 PM"
+  },
+  {
+    "id": 132,
+    "employee_id": "160036",
+    "employee_name": "Dhrubajit Roy",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "id": 133,
+    "employee_id": "160566",
+    "employee_name": "Md. Ohidul Islam",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "id": 134,
+    "employee_id": "130261",
+    "employee_name": "Mukanda Bala",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "id": 135,
+    "employee_id": "161096",
+    "employee_name": "Devid Komal Majumder",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 136,
+    "employee_id": "130135",
+    "employee_name": "Md. Maruf Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 137,
+    "employee_id": "100035",
+    "employee_name": "Muhammad Zakir Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 138,
+    "employee_id": "210841",
+    "employee_name": "Subra Mondal Robi",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:15 PM"
+  },
+  {
+    "id": 139,
+    "employee_id": "230347",
+    "employee_name": "Md. Abu Talha",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:15 PM"
+  },
+  {
+    "id": 140,
+    "employee_id": "170480",
+    "employee_name": "Md. Mintu Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:16 PM"
+  },
+  {
+    "id": 141,
+    "employee_id": "231538",
+    "employee_name": "Md. Ratan Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:18 PM"
+  },
+  {
+    "id": 142,
+    "employee_id": "210702",
+    "employee_name": "Md. Rubel Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "id": 143,
+    "employee_id": "240222",
+    "employee_name": "Shaha Alam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "id": 144,
+    "employee_id": "220400",
+    "employee_name": "Md. Najrul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "id": 145,
+    "employee_id": "231304",
+    "employee_name": "S.M. Shohag",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:21 PM"
+  },
+  {
+    "id": 146,
+    "employee_id": "230676",
+    "employee_name": "Md. Sifatul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 02:22 PM"
+  },
+  {
+    "id": 147,
+    "employee_id": "231062",
+    "employee_name": "Rony Hasan Akash",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:23 PM"
+  },
+  {
+    "id": 148,
+    "employee_id": "230682",
+    "employee_name": "Md. Ziban Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 02:25 PM"
+  },
+  {
+    "id": 149,
+    "employee_id": "250263",
+    "employee_name": "Zaber Ahmmod",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:26 PM"
+  },
+  {
+    "id": 150,
+    "employee_id": "160650",
+    "employee_name": "Md. Juel Miah",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:29 PM"
+  },
+  {
+    "id": 151,
+    "employee_id": "140440",
+    "employee_name": "Md. Shahidur Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:30 PM"
+  },
+  {
+    "id": 152,
+    "employee_id": "220253",
+    "employee_name": "Md. Mahmudul Hasan Mintu",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "id": 153,
+    "employee_id": "161093",
+    "employee_name": "Shankar Mahanta",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "id": 154,
+    "employee_id": "231426",
+    "employee_name": "Md. Ahad Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "id": 155,
+    "employee_id": "230488",
+    "employee_name": "Md. Tajil Miah",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:33 PM"
+  },
+  {
+    "id": 156,
+    "employee_id": "230778",
+    "employee_name": "Md. Mofacssal Ahmad",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:35 PM"
+  },
+  {
+    "id": 157,
+    "employee_id": "170219",
+    "employee_name": "Sohag",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:35 PM"
+  },
+  {
+    "id": 158,
+    "employee_id": "250073",
+    "employee_name": "Md. Robiul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:36 PM"
+  },
+  {
+    "id": 159,
+    "employee_id": "231032",
+    "employee_name": "Md. Abu Taher Dalim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:38 PM"
+  },
+  {
+    "id": 160,
+    "employee_id": "161456",
+    "employee_name": "Md. Tanzil Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:38 PM"
+  },
+  {
+    "id": 161,
+    "employee_id": "170470",
+    "employee_name": "Md. Fazlul Hoque",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:39 PM"
+  },
+  {
+    "id": 162,
+    "employee_id": "170848",
+    "employee_name": "Md. Mahadi Hasan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:39 PM"
+  },
+  {
+    "id": 163,
+    "employee_id": "200203",
+    "employee_name": "Md. Sojeb Akondo",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:41 PM"
+  },
+  {
+    "id": 164,
+    "employee_id": "220453",
+    "employee_name": "Md. Billal Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:42 PM"
+  },
+  {
+    "id": 165,
+    "employee_id": "150168",
+    "employee_name": "Md. Shahin Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:43 PM"
+  },
+  {
+    "id": 166,
+    "employee_id": "220315",
+    "employee_name": "Md. Babul Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:44 PM"
+  },
+  {
+    "id": 167,
+    "employee_id": "160230",
+    "employee_name": "Palash Kumar Biswas",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:45 PM"
+  },
+  {
+    "id": 168,
+    "employee_id": "160530",
+    "employee_name": "Bakul Mallik",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "28 Nov 2025, 02:49 PM"
+  },
+  {
+    "id": 169,
+    "employee_id": "230638",
+    "employee_name": "Md. Jobair Al  Habib",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:52 PM"
+  },
+  {
+    "id": 170,
+    "employee_id": "230842",
+    "employee_name": "Md. Redoy Khan",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:52 PM"
+  },
+  {
+    "id": 171,
+    "employee_id": "200435",
+    "employee_name": "Gopal Chandro Mondol",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:55 PM"
+  },
+  {
+    "id": 172,
+    "employee_id": "231409",
+    "employee_name": "Akash Sarker",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 02:55 PM"
+  },
+  {
+    "id": 173,
+    "employee_id": "230699",
+    "employee_name": "Md. Hridoy Mia",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:01 PM"
+  },
+  {
+    "id": 174,
+    "employee_id": "250172",
+    "employee_name": "Md. Hossain Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:02 PM"
+  },
+  {
+    "id": 175,
+    "employee_id": "240206",
+    "employee_name": "Md. Sanower Hossen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:05 PM"
+  },
+  {
+    "id": 176,
+    "employee_id": "210694",
+    "employee_name": "Shorif Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:08 PM"
+  },
+  {
+    "id": 177,
+    "employee_id": "231265",
+    "employee_name": "Mizanur Rahman",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:11 PM"
+  },
+  {
+    "id": 178,
+    "employee_id": "210677",
+    "employee_name": "Md. Khalilur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:14 PM"
+  },
+  {
+    "id": 179,
+    "employee_id": "90113",
+    "employee_name": "Md. Ratan  Miah",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 03:22 PM"
+  },
+  {
+    "id": 180,
+    "employee_id": "231374",
+    "employee_name": "Koruna Kumar Roy",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:23 PM"
+  },
+  {
+    "id": 181,
+    "employee_id": "231494",
+    "employee_name": "Md. Ridoy Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "id": 182,
+    "employee_id": "231506",
+    "employee_name": "Prokash Chandra Mahanta",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "id": 183,
+    "employee_id": "230947",
+    "employee_name": "Md. Solaiman Akanda",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "id": 184,
+    "employee_id": "170012",
+    "employee_name": "Md. Dudu Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "id": 185,
+    "employee_id": "240076",
+    "employee_name": "Md. Liton Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:28 PM"
+  },
+  {
+    "id": 186,
+    "employee_id": "80129",
+    "employee_name": "Md. A. Hanif",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:29 PM"
+  },
+  {
+    "id": 187,
+    "employee_id": "231309",
+    "employee_name": "Md. Rahim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:34 PM"
+  },
+  {
+    "id": 188,
+    "employee_id": "160663",
+    "employee_name": "Md. Jahidul Hasan Robin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:38 PM"
+  },
+  {
+    "id": 189,
+    "employee_id": "230710",
+    "employee_name": "Aris Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:38 PM"
+  },
+  {
+    "id": 190,
+    "employee_id": "210178",
+    "employee_name": "Md. Mahabub",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:40 PM"
+  },
+  {
+    "id": 191,
+    "employee_id": "170776",
+    "employee_name": "Md. Abu Musha Ahmed",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:40 PM"
+  },
+  {
+    "id": 192,
+    "employee_id": "210625",
+    "employee_name": "Md. Shahidul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:40 PM"
+  },
+  {
+    "id": 193,
+    "employee_id": "190488",
+    "employee_name": "Md. Juglu Miah",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:41 PM"
+  },
+  {
+    "id": 194,
+    "employee_id": "220579",
+    "employee_name": "Nipu Tanti",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:47 PM"
+  },
+  {
+    "id": 195,
+    "employee_id": "140436",
+    "employee_name": "Md. Nurunnobi",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:48 PM"
+  },
+  {
+    "id": 196,
+    "employee_id": "160415",
+    "employee_name": "Md. Julfikar Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:48 PM"
+  },
+  {
+    "id": 197,
+    "employee_id": "180785",
+    "employee_name": "Md. Sohel Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:50 PM"
+  },
+  {
+    "id": 198,
+    "employee_id": "210682",
+    "employee_name": "Suraf",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:51 PM"
+  },
+  {
+    "id": 199,
+    "employee_id": "200237",
+    "employee_name": "Md. Ashraful Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:51 PM"
+  },
+  {
+    "id": 200,
+    "employee_id": "250040",
+    "employee_name": "Md. Yasin Arafat",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 03:57 PM"
+  },
+  {
+    "id": 201,
+    "employee_id": "160337",
+    "employee_name": "Md. Ruhul Amin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:05 PM"
+  },
+  {
+    "id": 202,
+    "employee_id": "231239",
+    "employee_name": "Soyful Miah",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:05 PM"
+  },
+  {
+    "id": 203,
+    "employee_id": "200292",
+    "employee_name": "Anadi Mrong",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:07 PM"
+  },
+  {
+    "id": 204,
+    "employee_id": "231503",
+    "employee_name": "Md. Nayem Hasan Monna",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:07 PM"
+  },
+  {
+    "id": 205,
+    "employee_id": "231114",
+    "employee_name": "Md. Shariful Islam",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:08 PM"
+  },
+  {
+    "id": 206,
+    "employee_id": "190507",
+    "employee_name": "Milon Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:08 PM"
+  },
+  {
+    "id": 207,
+    "employee_id": "140461",
+    "employee_name": "Md. Azahar Ali",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:10 PM"
+  },
+  {
+    "id": 208,
+    "employee_id": "130238",
+    "employee_name": "Md Abul Kalam Azad",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:11 PM"
+  },
+  {
+    "id": 209,
+    "employee_id": "210817",
+    "employee_name": "Rafiqul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:11 PM"
+  },
+  {
+    "id": 210,
+    "employee_id": "250268",
+    "employee_name": "Riad Hossain Joni",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:12 PM"
+  },
+  {
+    "id": 211,
+    "employee_id": "140288",
+    "employee_name": "Md. Shahidul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:15 PM"
+  },
+  {
+    "id": 212,
+    "employee_id": "230388",
+    "employee_name": "Md. khorshed Alam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:21 PM"
+  },
+  {
+    "id": 213,
+    "employee_id": "210095",
+    "employee_name": "Arif Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:21 PM"
+  },
+  {
+    "id": 214,
+    "employee_id": "200266",
+    "employee_name": "Md. Khairul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:24 PM"
+  },
+  {
+    "id": 215,
+    "employee_id": "210067",
+    "employee_name": "F.R.M Momoshad Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:24 PM"
+  },
+  {
+    "id": 216,
+    "employee_id": "240027",
+    "employee_name": "Mohammad Kamal Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:27 PM"
+  },
+  {
+    "id": 217,
+    "employee_id": "161534",
+    "employee_name": "Md. Shipon Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "id": 218,
+    "employee_id": "170296",
+    "employee_name": "Md. Shamim Parvez",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "id": 219,
+    "employee_id": "170299",
+    "employee_name": "Md. Ramzan Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "id": 220,
+    "employee_id": "250070",
+    "employee_name": "Nizamul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:30 PM"
+  },
+  {
+    "id": 221,
+    "employee_id": "170294",
+    "employee_name": "Md. Anamul Haque",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:30 PM"
+  },
+  {
+    "id": 222,
+    "employee_id": "160681",
+    "employee_name": "Imran Nazir",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:31 PM"
+  },
+  {
+    "id": 223,
+    "employee_id": "160678",
+    "employee_name": "Md. Rezaul Karim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:31 PM"
+  },
+  {
+    "id": 224,
+    "employee_id": "210851",
+    "employee_name": "Joy Kumar Ghosh",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:33 PM"
+  },
+  {
+    "id": 225,
+    "employee_id": "160689",
+    "employee_name": "Md. Belal Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:34 PM"
+  },
+  {
+    "id": 226,
+    "employee_id": "130242",
+    "employee_name": "Md. Mahbub Hasan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:34 PM"
+  },
+  {
+    "id": 227,
+    "employee_id": "220139",
+    "employee_name": "Md. Tufael Ahmed",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:37 PM"
+  },
+  {
+    "id": 228,
+    "employee_id": "240173",
+    "employee_name": "Md. Sazzad Khan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:37 PM"
+  },
+  {
+    "id": 229,
+    "employee_id": "150497",
+    "employee_name": "Md. Aminul Islam Sojib",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:43 PM"
+  },
+  {
+    "id": 230,
+    "employee_id": "140145",
+    "employee_name": "Md. Ebrahim Ali",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:44 PM"
+  },
+  {
+    "id": 231,
+    "employee_id": "140238",
+    "employee_name": "Foysal",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:44 PM"
+  },
+  {
+    "id": 232,
+    "employee_id": "250269",
+    "employee_name": "Amdash Chakma",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:46 PM"
+  },
+  {
+    "id": 233,
+    "employee_id": "240229",
+    "employee_name": "Jayad Ahamed Khan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:47 PM"
+  },
+  {
+    "id": 234,
+    "employee_id": "180799",
+    "employee_name": "Shree Hori Prosad Ray",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:47 PM"
+  },
+  {
+    "id": 235,
+    "employee_id": "140249",
+    "employee_name": "Md. Rasel Howlader",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:48 PM"
+  },
+  {
+    "id": 236,
+    "employee_id": "80086",
+    "employee_name": "Md. Shahin Reza",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "id": 237,
+    "employee_id": "220372",
+    "employee_name": "Muhammad Mohedul Sheikh",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "id": 238,
+    "employee_id": "130382",
+    "employee_name": "Md. Maidul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "id": 239,
+    "employee_id": "200291",
+    "employee_name": "Md. Mosharaf Hosen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:51 PM"
+  },
+  {
+    "id": 240,
+    "employee_id": "190396",
+    "employee_name": "Md. Abdul Barik",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:53 PM"
+  },
+  {
+    "id": 241,
+    "employee_id": "170434",
+    "employee_name": "Md. Abul Badsha",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:53 PM"
+  },
+  {
+    "id": 242,
+    "employee_id": "230361",
+    "employee_name": "Md. Rezaul Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:56 PM"
+  },
+  {
+    "id": 243,
+    "employee_id": "170371",
+    "employee_name": "Md. Juwel Miya",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 04:57 PM"
+  },
+  {
+    "id": 244,
+    "employee_id": "210649",
+    "employee_name": "Eaysin Miah",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "28 Nov 2025, 05:06 PM"
+  },
+  {
+    "id": 245,
+    "employee_id": "210694",
+    "employee_name": "Shorif Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "28 Nov 2025, 05:07 PM"
+  },
+  {
+    "id": 246,
+    "employee_id": "150277",
+    "employee_name": "Md. Noor Nabi",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 09:55 AM"
+  },
+  {
+    "id": 247,
+    "employee_id": "230016",
+    "employee_name": "Md. A . Sattar",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 09:55 AM"
+  },
+  {
+    "id": 248,
+    "employee_id": "140347",
+    "employee_name": "Md. Abui Saim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 09:56 AM"
+  },
+  {
+    "id": 249,
+    "employee_id": "200284",
+    "employee_name": "Md. Aminul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 09:58 AM"
+  },
+  {
+    "id": 250,
+    "employee_id": "160202",
+    "employee_name": "Faruk Hosen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:17 AM"
+  },
+  {
+    "id": 251,
+    "employee_id": "180337",
+    "employee_name": "Md. Rayhan Babu",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:17 AM"
+  },
+  {
+    "id": 252,
+    "employee_id": "180337",
+    "employee_name": "Md. Rayhan Babu",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "ok",
+    "timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "id": 253,
+    "employee_id": "220373",
+    "employee_name": "Md. Ibrahim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "id": 254,
+    "employee_id": "180157",
+    "employee_name": "Md. Suhel Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "id": 255,
+    "employee_id": "250319",
+    "employee_name": "Samim Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:20 AM"
+  },
+  {
+    "id": 256,
+    "employee_id": "231046",
+    "employee_name": "Md. Bipul Islam",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "29 Nov 2025, 10:20 AM"
+  },
+  {
+    "id": 257,
+    "employee_id": "70026",
+    "employee_name": "Tapos Chandra Biswas",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:21 AM"
+  },
+  {
+    "id": 258,
+    "employee_id": "150477",
+    "employee_name": "Ala Uddin",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:22 AM"
+  },
+  {
+    "id": 259,
+    "employee_id": "240024",
+    "employee_name": "Md. Hasan Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:24 AM"
+  },
+  {
+    "id": 260,
+    "employee_id": "120138",
+    "employee_name": "Md. Kayum Khan",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:29 AM"
+  },
+  {
+    "id": 261,
+    "employee_id": "80075",
+    "employee_name": "Rezaul Karim",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 10:30 AM"
+  },
+  {
+    "id": 262,
+    "employee_id": "130422",
+    "employee_name": "Md. Aminul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:34 AM"
+  },
+  {
+    "id": 263,
+    "employee_id": "130464",
+    "employee_name": "Md Bahar Ali",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:36 AM"
+  },
+  {
+    "id": 264,
+    "employee_id": "231319",
+    "employee_name": "Setu Miah",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:37 AM"
+  },
+  {
+    "id": 265,
+    "employee_id": "130079",
+    "employee_name": "Md. Nur Nabi Sarkar",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 266,
+    "employee_id": "90085",
+    "employee_name": "Md Masum Bellah",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 267,
+    "employee_id": "140142",
+    "employee_name": "Md. Milon Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 268,
+    "employee_id": "250321",
+    "employee_name": "Md. Akash",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "id": 269,
+    "employee_id": "220680",
+    "employee_name": "Md. Jewel Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "id": 270,
+    "employee_id": "170779",
+    "employee_name": "Md. Faruk Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "id": 271,
+    "employee_id": "150523",
+    "employee_name": "Md. Arif Paik",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "id": 272,
+    "employee_id": "230720",
+    "employee_name": "Mufazzal Hosen",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "id": 273,
+    "employee_id": "190605",
+    "employee_name": "Shah Alam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:42 AM"
+  },
+  {
+    "id": 274,
+    "employee_id": "120308",
+    "employee_name": "Md. Abdul Kaiyum",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:42 AM"
+  },
+  {
+    "id": 275,
+    "employee_id": "230724",
+    "employee_name": "Md. Monirul Islam",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 276,
+    "employee_id": "210810",
+    "employee_name": "Md. Amirul Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 277,
+    "employee_id": "90034",
+    "employee_name": "Md. Ratan Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 278,
+    "employee_id": "231215",
+    "employee_name": "Gourob Chandra Paul",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "id": 279,
+    "employee_id": "231484",
+    "employee_name": "Md. Motaleb",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:44 AM"
+  },
+  {
+    "id": 280,
+    "employee_id": "150409",
+    "employee_name": "Md. Rubel Rana",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:44 AM"
+  },
+  {
+    "id": 281,
+    "employee_id": "220291",
+    "employee_name": "Md. Naim Howladar",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:49 AM"
+  },
+  {
+    "id": 282,
+    "employee_id": "170471",
+    "employee_name": "Md. Omar Faruk",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:51 AM"
+  },
+  {
+    "id": 283,
+    "employee_id": "210625",
+    "employee_name": "Md. Shahidul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "id": 284,
+    "employee_id": "210225",
+    "employee_name": "Md. Abdul Alim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "id": 285,
+    "employee_id": "140159",
+    "employee_name": "Md. Jewel Rana",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "id": 286,
+    "employee_id": "210475",
+    "employee_name": "Md. Nazmul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "id": 287,
+    "employee_id": "200288",
+    "employee_name": "Anowar Hosen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:54 AM"
+  },
+  {
+    "id": 288,
+    "employee_id": "161337",
+    "employee_name": "Md. Bipul Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:55 AM"
+  },
+  {
+    "id": 289,
+    "employee_id": "220007",
+    "employee_name": "Md. Sarafath Molla",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:55 AM"
+  },
+  {
+    "id": 290,
+    "employee_id": "231045",
+    "employee_name": "Ahad Ali Sana",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "id": 291,
+    "employee_id": "170205",
+    "employee_name": "Md. Mothir Rahman",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "id": 292,
+    "employee_id": "150001",
+    "employee_name": "Juel Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "id": 293,
+    "employee_id": "160264",
+    "employee_name": "Md Mogidul",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:57 AM"
+  },
+  {
+    "id": 294,
+    "employee_id": "220364",
+    "employee_name": "Ansarul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:57 AM"
+  },
+  {
+    "id": 295,
+    "employee_id": "160734",
+    "employee_name": "Md. Eiakub Ali Mamun",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "id": 296,
+    "employee_id": "160733",
+    "employee_name": "Nur Mohammad",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "id": 297,
+    "employee_id": "200379",
+    "employee_name": "Md. Minal Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "id": 298,
+    "employee_id": "240136",
+    "employee_name": "Md. Anamul Haque",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "Taka chilo na",
+    "timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "id": 299,
+    "employee_id": "240178",
+    "employee_name": "Md. Mostofa",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "id": 300,
+    "employee_id": "120386",
+    "employee_name": "Md Mahasherul Raza",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "id": 301,
+    "employee_id": "130300",
+    "employee_name": "Md. Anowarul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "id": 302,
+    "employee_id": "220083",
+    "employee_name": "Md. Ripon Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "id": 303,
+    "employee_id": "230085",
+    "employee_name": "Md. Amzad Hossain Bhyan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "id": 304,
+    "employee_id": "230695",
+    "employee_name": "Md. Abdul Mumin Shoyeb",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "id": 305,
+    "employee_id": "230909",
+    "employee_name": "Md. Polen Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "id": 306,
+    "employee_id": "190484",
+    "employee_name": "Palash Mistri",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "id": 307,
+    "employee_id": "80146",
+    "employee_name": "Md. Monir Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "id": 308,
+    "employee_id": "230091",
+    "employee_name": "Md. Zahedul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "id": 309,
+    "employee_id": "170883",
+    "employee_name": "Md. Mokbul Hossen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "id": 310,
+    "employee_id": "70011",
+    "employee_name": "Anukul Debnath",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "id": 311,
+    "employee_id": "230499",
+    "employee_name": "Mizanur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "id": 312,
+    "employee_id": "231448",
+    "employee_name": "Ropon Chandro Bishas",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "id": 313,
+    "employee_id": "150006",
+    "employee_name": "Md. Khairul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "id": 314,
+    "employee_id": "161447",
+    "employee_name": "Md. Atikul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "id": 315,
+    "employee_id": "200403",
+    "employee_name": "Mohammad Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "id": 316,
+    "employee_id": "210017",
+    "employee_name": "Md. Tarek Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "id": 317,
+    "employee_id": "230385",
+    "employee_name": "Abdul Kafi",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "id": 318,
+    "employee_id": "220281",
+    "employee_name": "Shamim Ahmed Sumon",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "id": 319,
+    "employee_id": "110012",
+    "employee_name": "Md. Saiful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:06 PM"
+  },
+  {
+    "id": 320,
+    "employee_id": "160412",
+    "employee_name": "Md. Shohrab",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:07 PM"
+  },
+  {
+    "id": 321,
+    "employee_id": "140177",
+    "employee_name": "Md. Akramul Haque",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:10 PM"
+  },
+  {
+    "id": 322,
+    "employee_id": "140163",
+    "employee_name": "Md. Mostofa Howlader",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:11 PM"
+  },
+  {
+    "id": 323,
+    "employee_id": "200383",
+    "employee_name": "Asik Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:11 PM"
+  },
+  {
+    "id": 324,
+    "employee_id": "120071",
+    "employee_name": "Md. Mosharof Hossain",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:18 PM"
+  },
+  {
+    "id": 325,
+    "employee_id": "231402",
+    "employee_name": "Md. Rubel",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:19 PM"
+  },
+  {
+    "id": 326,
+    "employee_id": "200282",
+    "employee_name": "Sree Sumon Roy",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:20 PM"
+  },
+  {
+    "id": 327,
+    "employee_id": "231022",
+    "employee_name": "Md. Ruhul Amin",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:21 PM"
+  },
+  {
+    "id": 328,
+    "employee_id": "80106",
+    "employee_name": "Md. Lokman Hossan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:25 PM"
+  },
+  {
+    "id": 329,
+    "employee_id": "230676",
+    "employee_name": "Md. Sifatul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "29 Nov 2025, 12:26 PM"
+  },
+  {
+    "id": 330,
+    "employee_id": "220369",
+    "employee_name": "Alamin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:27 PM"
+  },
+  {
+    "id": 331,
+    "employee_id": "110048",
+    "employee_name": "Md. Sohidul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:29 PM"
+  },
+  {
+    "id": 332,
+    "employee_id": "180203",
+    "employee_name": "Md. Munnaf Ali Sheikh",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:30 PM"
+  },
+  {
+    "id": 333,
+    "employee_id": "231137",
+    "employee_name": "Md. Kazu Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:30 PM"
+  },
+  {
+    "id": 334,
+    "employee_id": "231392",
+    "employee_name": "Md. Ashib Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:31 PM"
+  },
+  {
+    "id": 335,
+    "employee_id": "161031",
+    "employee_name": "Sujon Kumar Das",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:31 PM"
+  },
+  {
+    "id": 336,
+    "employee_id": "240251",
+    "employee_name": "Md. Mofizur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 12:32 PM"
+  },
+  {
+    "id": 337,
+    "employee_id": "161031",
+    "employee_name": "Sujon Kumar Das",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 12:33 PM"
+  },
+  {
+    "id": 338,
+    "employee_id": "200353",
+    "employee_name": "Md. Arif Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:34 PM"
+  },
+  {
+    "id": 339,
+    "employee_id": "220068",
+    "employee_name": "Sifat Ahmed Shawon",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:35 PM"
+  },
+  {
+    "id": 340,
+    "employee_id": "190263",
+    "employee_name": "Shahjahan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:37 PM"
+  },
+  {
+    "id": 341,
+    "employee_id": "231220",
+    "employee_name": "Momin",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:37 PM"
+  },
+  {
+    "id": 342,
+    "employee_id": "160687",
+    "employee_name": "Md. Sadekul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:40 PM"
+  },
+  {
+    "id": 343,
+    "employee_id": "250173",
+    "employee_name": "Palash",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:40 PM"
+  },
+  {
+    "id": 344,
+    "employee_id": "80163",
+    "employee_name": "Md. Firoz Alam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:41 PM"
+  },
+  {
+    "id": 345,
+    "employee_id": "210678",
+    "employee_name": "Siraz Kazi",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:44 PM"
+  },
+  {
+    "id": 346,
+    "employee_id": "230002",
+    "employee_name": "Md. Habibullah Shak",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:45 PM"
+  },
+  {
+    "id": 347,
+    "employee_id": "140138",
+    "employee_name": "Md. Aiblee Furkani",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:45 PM"
+  },
+  {
+    "id": 348,
+    "employee_id": "200486",
+    "employee_name": "Sukh Deb Das",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:47 PM"
+  },
+  {
+    "id": 349,
+    "employee_id": "150413",
+    "employee_name": "Md Abul Kalam Azad",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:47 PM"
+  },
+  {
+    "id": 350,
+    "employee_id": "200261",
+    "employee_name": "Shariful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "id": 351,
+    "employee_id": "250028",
+    "employee_name": "Jelhouk Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "id": 352,
+    "employee_id": "220611",
+    "employee_name": "Md. Rasel",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "id": 353,
+    "employee_id": "250183",
+    "employee_name": "Jakir Hosen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "id": 354,
+    "employee_id": "220649",
+    "employee_name": "Md. Suhel Amin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "id": 355,
+    "employee_id": "240255",
+    "employee_name": "Md. Alhaz Miah",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "id": 356,
+    "employee_id": "250182",
+    "employee_name": "Md. Firuj Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "id": 357,
+    "employee_id": "220620",
+    "employee_name": "Maidul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "id": 358,
+    "employee_id": "250122",
+    "employee_name": "Md. Sirajul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "id": 359,
+    "employee_id": "230985",
+    "employee_name": "Md. Redoy Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "id": 360,
+    "employee_id": "240107",
+    "employee_name": "Md. Mosa Nobe",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "id": 361,
+    "employee_id": "120061",
+    "employee_name": "Md. Sagar Ali",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "id": 362,
+    "employee_id": "120070",
+    "employee_name": "Md. Abul Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "id": 363,
+    "employee_id": "231410",
+    "employee_name": "Md. Lal Miya",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:54 PM"
+  },
+  {
+    "id": 364,
+    "employee_id": "210854",
+    "employee_name": "Md. Anisur Rahman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:54 PM"
+  },
+  {
+    "id": 365,
+    "employee_id": "230990",
+    "employee_name": "Al Amin",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:55 PM"
+  },
+  {
+    "id": 366,
+    "employee_id": "210069",
+    "employee_name": "Ranik Khan",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:56 PM"
+  },
+  {
+    "id": 367,
+    "employee_id": "230050",
+    "employee_name": "Md. Sahalam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:57 PM"
+  },
+  {
+    "id": 368,
+    "employee_id": "150222",
+    "employee_name": "Md. Masud Rana",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 12:58 PM"
+  },
+  {
+    "id": 369,
+    "employee_id": "231401",
+    "employee_name": "Md. Rubel Ahmed",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:00 PM"
+  },
+  {
+    "id": 370,
+    "employee_id": "161096",
+    "employee_name": "Devid Komal Majumder",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 01:01 PM"
+  },
+  {
+    "id": 371,
+    "employee_id": "250133",
+    "employee_name": "Md. Bayzid",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:01 PM"
+  },
+  {
+    "id": 372,
+    "employee_id": "160005",
+    "employee_name": "Md. Ariful Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:02 PM"
+  },
+  {
+    "id": 373,
+    "employee_id": "120043",
+    "employee_name": "Aslam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:04 PM"
+  },
+  {
+    "id": 374,
+    "employee_id": "150346",
+    "employee_name": "Nazrul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:05 PM"
+  },
+  {
+    "id": 375,
+    "employee_id": "170993",
+    "employee_name": "Md. Sofikul Islam Sofik",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:06 PM"
+  },
+  {
+    "id": 376,
+    "employee_id": "80164",
+    "employee_name": "Md Joynal Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:06 PM"
+  },
+  {
+    "id": 377,
+    "employee_id": "190596",
+    "employee_name": "Md. Sabuj Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:07 PM"
+  },
+  {
+    "id": 378,
+    "employee_id": "230911",
+    "employee_name": "Md. Muzaffar Ali",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:08 PM"
+  },
+  {
+    "id": 379,
+    "employee_id": "220111",
+    "employee_name": "Md. Al Amin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:14 PM"
+  },
+  {
+    "id": 380,
+    "employee_id": "180466",
+    "employee_name": "Md. Jwel Rana",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:16 PM"
+  },
+  {
+    "id": 381,
+    "employee_id": "230732",
+    "employee_name": "Md. Alef Rabbani (Khukan)",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:17 PM"
+  },
+  {
+    "id": 382,
+    "employee_id": "250123",
+    "employee_name": "Md. Akash Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:18 PM"
+  },
+  {
+    "id": 383,
+    "employee_id": "231099",
+    "employee_name": "Md. Sohan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "id": 384,
+    "employee_id": "250098",
+    "employee_name": "Md. Ashrafuzzaman Khan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "id": 385,
+    "employee_id": "210663",
+    "employee_name": "Md. Rohul Amin",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "id": 386,
+    "employee_id": "230420",
+    "employee_name": "Sojib Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:20 PM"
+  },
+  {
+    "id": 387,
+    "employee_id": "161118",
+    "employee_name": "Md. Badal Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:21 PM"
+  },
+  {
+    "id": 388,
+    "employee_id": "130482",
+    "employee_name": "Abdul Alim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:22 PM"
+  },
+  {
+    "id": 389,
+    "employee_id": "130063",
+    "employee_name": "Md. Rasel Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:24 PM"
+  },
+  {
+    "id": 390,
+    "employee_id": "220120",
+    "employee_name": "Md. Sumon Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:26 PM"
+  },
+  {
+    "id": 391,
+    "employee_id": "230928",
+    "employee_name": "Sajal Kumar Das",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:27 PM"
+  },
+  {
+    "id": 392,
+    "employee_id": "250198",
+    "employee_name": "Sadiqul Hassan",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:28 PM"
+  },
+  {
+    "id": 393,
+    "employee_id": "220512",
+    "employee_name": "Shariful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:28 PM"
+  },
+  {
+    "id": 394,
+    "employee_id": "230048",
+    "employee_name": "Md. Saminoul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:29 PM"
+  },
+  {
+    "id": 395,
+    "employee_id": "80152",
+    "employee_name": "Md. Tanvir Hossan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:29 PM"
+  },
+  {
+    "id": 396,
+    "employee_id": "250080",
+    "employee_name": "Md. Suhan Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:30 PM"
+  },
+  {
+    "id": 397,
+    "employee_id": "220564",
+    "employee_name": "Md. Kawsar Ali",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:30 PM"
+  },
+  {
+    "id": 398,
+    "employee_id": "170061",
+    "employee_name": "Md. Monirmia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:31 PM"
+  },
+  {
+    "id": 399,
+    "employee_id": "220164",
+    "employee_name": "Mohammad Elias",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:31 PM"
+  },
+  {
+    "id": 400,
+    "employee_id": "220043",
+    "employee_name": "Mosaruf Hossen",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:32 PM"
+  },
+  {
+    "id": 401,
+    "employee_id": "230826",
+    "employee_name": "Yasin",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:33 PM"
+  },
+  {
+    "id": 402,
+    "employee_id": "80056",
+    "employee_name": "Md. Mahfuzur Rahman",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:33 PM"
+  },
+  {
+    "id": 403,
+    "employee_id": "170373",
+    "employee_name": "Md. Jaber Hosen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:36 PM"
+  },
+  {
+    "id": 404,
+    "employee_id": "160842",
+    "employee_name": "Durjoi Dalbot",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:37 PM"
+  },
+  {
+    "id": 405,
+    "employee_id": "230555",
+    "employee_name": "Md. Abdur Razzak",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:46 PM"
+  },
+  {
+    "id": 406,
+    "employee_id": "240077",
+    "employee_name": "Md. Rana",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:46 PM"
+  },
+  {
+    "id": 407,
+    "employee_id": "160206",
+    "employee_name": "Alamgir Hosen",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:48 PM"
+  },
+  {
+    "id": 408,
+    "employee_id": "180171",
+    "employee_name": "Md. Mehedi Hasan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:49 PM"
+  },
+  {
+    "id": 409,
+    "employee_id": "180024",
+    "employee_name": "Md. Mostakim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:49 PM"
+  },
+  {
+    "id": 410,
+    "employee_id": "230150",
+    "employee_name": "Md. Kazol Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:50 PM"
+  },
+  {
+    "id": 411,
+    "employee_id": "190357",
+    "employee_name": "Imran Khan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:51 PM"
+  },
+  {
+    "id": 412,
+    "employee_id": "150082",
+    "employee_name": "Md. Rafiqul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:51 PM"
+  },
+  {
+    "id": 413,
+    "employee_id": "240210",
+    "employee_name": "Md. Azharul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:53 PM"
+  },
+  {
+    "id": 414,
+    "employee_id": "150332",
+    "employee_name": "Alamgir Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:53 PM"
+  },
+  {
+    "id": 415,
+    "employee_id": "210093",
+    "employee_name": "Ainal Hoque",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:54 PM"
+  },
+  {
+    "id": 416,
+    "employee_id": "210469",
+    "employee_name": "Md. Sahen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:57 PM"
+  },
+  {
+    "id": 417,
+    "employee_id": "110036",
+    "employee_name": "Bepul Mogmder",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 418,
+    "employee_id": "230888",
+    "employee_name": "Md. Ariful Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 419,
+    "employee_id": "250171",
+    "employee_name": "Md. Rubel",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "id": 420,
+    "employee_id": "250255",
+    "employee_name": "Md. Sobuz Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:00 PM"
+  },
+  {
+    "id": 421,
+    "employee_id": "210733",
+    "employee_name": "Md. Al Amin",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:00 PM"
+  },
+  {
+    "id": 422,
+    "employee_id": "160789",
+    "employee_name": "Md. Touhidul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:01 PM"
+  },
+  {
+    "id": 423,
+    "employee_id": "230680",
+    "employee_name": "Proshanta Kumar Roy",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:01 PM"
+  },
+  {
+    "id": 424,
+    "employee_id": "70068",
+    "employee_name": "Shri Uttam Chandra Das",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:02 PM"
+  },
+  {
+    "id": 425,
+    "employee_id": "140418",
+    "employee_name": "Md. Monir Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:02 PM"
+  },
+  {
+    "id": 426,
+    "employee_id": "210604",
+    "employee_name": "Md. Sujat Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:03 PM"
+  },
+  {
+    "id": 427,
+    "employee_id": "210149",
+    "employee_name": "Md. Afaz Uddin",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:03 PM"
+  },
+  {
+    "id": 428,
+    "employee_id": "230036",
+    "employee_name": "Md. Masum Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:04 PM"
+  },
+  {
+    "id": 429,
+    "employee_id": "231078",
+    "employee_name": "Md. Khirul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:05 PM"
+  },
+  {
+    "id": 430,
+    "employee_id": "160438",
+    "employee_name": "Md. Siddiqur Rahman",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:05 PM"
+  },
+  {
+    "id": 431,
+    "employee_id": "250155",
+    "employee_name": "Himel Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:06 PM"
+  },
+  {
+    "id": 432,
+    "employee_id": "210487",
+    "employee_name": "Muhammad Rubel Hossen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:06 PM"
+  },
+  {
+    "id": 433,
+    "employee_id": "210058",
+    "employee_name": "Md. Arman Ali",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:07 PM"
+  },
+  {
+    "id": 434,
+    "employee_id": "200338",
+    "employee_name": "Md. Nazim Uddin",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:07 PM"
+  },
+  {
+    "id": 435,
+    "employee_id": "190215",
+    "employee_name": "Faruk Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:08 PM"
+  },
+  {
+    "id": 436,
+    "employee_id": "90057",
+    "employee_name": "Md. Monirul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:08 PM"
+  },
+  {
+    "id": 437,
+    "employee_id": "230005",
+    "employee_name": "Al Amin",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:09 PM"
+  },
+  {
+    "id": 438,
+    "employee_id": "230251",
+    "employee_name": "Md. Shantor Ali",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:09 PM"
+  },
+  {
+    "id": 439,
+    "employee_id": "231376",
+    "employee_name": "Md. Shafiq",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:10 PM"
+  },
+  {
+    "id": 440,
+    "employee_id": "130430",
+    "employee_name": "Md. Kajol Hasan",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:10 PM"
+  },
+  {
+    "id": 441,
+    "employee_id": "100125",
+    "employee_name": "Md. Amirul Islam",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:11 PM"
+  },
+  {
+    "id": 442,
+    "employee_id": "250155",
+    "employee_name": "Himel Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "29 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 443,
+    "employee_id": "240037",
+    "employee_name": "Andrias Murmu",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:12 PM"
+  },
+  {
+    "id": 444,
+    "employee_id": "200333",
+    "employee_name": "Md. Al- Amin Pramanik",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:13 PM"
+  },
+  {
+    "id": 445,
+    "employee_id": "160100",
+    "employee_name": "Md. Masum Ali",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:13 PM"
+  },
+  {
+    "id": 446,
+    "employee_id": "210700",
+    "employee_name": "Md. Anarul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:17 PM"
+  },
+  {
+    "id": 447,
+    "employee_id": "140105",
+    "employee_name": "Md. Anichur Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:18 PM"
+  },
+  {
+    "id": 448,
+    "employee_id": "140451",
+    "employee_name": "Md. Mojnu Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:19 PM"
+  },
+  {
+    "id": 449,
+    "employee_id": "220464",
+    "employee_name": "Md. Salman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:20 PM"
+  },
+  {
+    "id": 450,
+    "employee_id": "220421",
+    "employee_name": "Md. Abdul Wahab",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:20 PM"
+  },
+  {
+    "id": 451,
+    "employee_id": "250167",
+    "employee_name": "Md. Sohel Sarkar",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:22 PM"
+  },
+  {
+    "id": 452,
+    "employee_id": "80043",
+    "employee_name": "Md. Sumon Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:24 PM"
+  },
+  {
+    "id": 453,
+    "employee_id": "190644",
+    "employee_name": "Md. Salamat Khan",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:24 PM"
+  },
+  {
+    "id": 454,
+    "employee_id": "140278",
+    "employee_name": "Md. Hanif Sheikh",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:25 PM"
+  },
+  {
+    "id": 455,
+    "employee_id": "230889",
+    "employee_name": "Md. Sagor Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:26 PM"
+  },
+  {
+    "id": 456,
+    "employee_id": "231021",
+    "employee_name": "Hridoy Sarker",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:26 PM"
+  },
+  {
+    "id": 457,
+    "employee_id": "200332",
+    "employee_name": "Akash Chandra",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:27 PM"
+  },
+  {
+    "id": 458,
+    "employee_id": "210494",
+    "employee_name": "Md. Nayem Hossain",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:28 PM"
+  },
+  {
+    "id": 459,
+    "employee_id": "210822",
+    "employee_name": "Sontush Das",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:28 PM"
+  },
+  {
+    "id": 460,
+    "employee_id": "231320",
+    "employee_name": "Raihan Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:30 PM"
+  },
+  {
+    "id": 461,
+    "employee_id": "231043",
+    "employee_name": "Md. Joy",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:30 PM"
+  },
+  {
+    "id": 462,
+    "employee_id": "210781",
+    "employee_name": "Md. Liton Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:31 PM"
+  },
+  {
+    "id": 463,
+    "employee_id": "230424",
+    "employee_name": "Md. Shakib Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:32 PM"
+  },
+  {
+    "id": 464,
+    "employee_id": "190047",
+    "employee_name": "Monir Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:32 PM"
+  },
+  {
+    "id": 465,
+    "employee_id": "80162",
+    "employee_name": "Sree Prodip Chandra Mitro",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:33 PM"
+  },
+  {
+    "id": 466,
+    "employee_id": "230430",
+    "employee_name": "Ziaur Rahman",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:33 PM"
+  },
+  {
+    "id": 467,
+    "employee_id": "70071",
+    "employee_name": "Md. Abdus Salam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:35 PM"
+  },
+  {
+    "id": 468,
+    "employee_id": "250328",
+    "employee_name": "Md. Imran Khan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:35 PM"
+  },
+  {
+    "id": 469,
+    "employee_id": "190637",
+    "employee_name": "Md. Abdul Alim",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:36 PM"
+  },
+  {
+    "id": 470,
+    "employee_id": "130337",
+    "employee_name": "Zakir Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 02:37 PM"
+  },
+  {
+    "id": 471,
+    "employee_id": "161036",
+    "employee_name": "Shafiqul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:38 PM"
+  },
+  {
+    "id": 472,
+    "employee_id": "80023",
+    "employee_name": "Md. Sirajul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:39 PM"
+  },
+  {
+    "id": 473,
+    "employee_id": "190683",
+    "employee_name": "Md. Moniruzzaman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:40 PM"
+  },
+  {
+    "id": 474,
+    "employee_id": "100069",
+    "employee_name": "Md. Rabiul",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:41 PM"
+  },
+  {
+    "id": 475,
+    "employee_id": "231106",
+    "employee_name": "Md. Yasin Arafat",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:42 PM"
+  },
+  {
+    "id": 476,
+    "employee_id": "230469",
+    "employee_name": "Md. Zonaet Hussain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:42 PM"
+  },
+  {
+    "id": 477,
+    "employee_id": "220231",
+    "employee_name": "Md. Monoyar Hosen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:43 PM"
+  },
+  {
+    "id": 478,
+    "employee_id": "200215",
+    "employee_name": "Md. Shobo Hasan",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:43 PM"
+  },
+  {
+    "id": 479,
+    "employee_id": "230633",
+    "employee_name": "Md. Bellal Howlader",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:44 PM"
+  },
+  {
+    "id": 480,
+    "employee_id": "150162",
+    "employee_name": "Md. Masequl Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:45 PM"
+  },
+  {
+    "id": 481,
+    "employee_id": "70074",
+    "employee_name": "Md. Aminul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:46 PM"
+  },
+  {
+    "id": 482,
+    "employee_id": "230651",
+    "employee_name": "Md. Aktaruzzaman",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:46 PM"
+  },
+  {
+    "id": 483,
+    "employee_id": "210750",
+    "employee_name": "Rahimul Islam",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:47 PM"
+  },
+  {
+    "id": 484,
+    "employee_id": "250091",
+    "employee_name": "Sulayman Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:47 PM"
+  },
+  {
+    "id": 485,
+    "employee_id": "160984",
+    "employee_name": "Md. Harun Or Rashid",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:48 PM"
+  },
+  {
+    "id": 486,
+    "employee_id": "160041",
+    "employee_name": "Amzad Hosen",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:50 PM"
+  },
+  {
+    "id": 487,
+    "employee_id": "160677",
+    "employee_name": "Sajib Bepary",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:52 PM"
+  },
+  {
+    "id": 488,
+    "employee_id": "150115",
+    "employee_name": "Md. Rubel Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:53 PM"
+  },
+  {
+    "id": 489,
+    "employee_id": "90113",
+    "employee_name": "Md. Ratan  Miah",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "29 Nov 2025, 02:54 PM"
+  },
+  {
+    "id": 490,
+    "employee_id": "210368",
+    "employee_name": "Md. Jamrul Hossan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:55 PM"
+  },
+  {
+    "id": 491,
+    "employee_id": "220348",
+    "employee_name": "Md. Bakul Mia",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:55 PM"
+  },
+  {
+    "id": 492,
+    "employee_id": "180642",
+    "employee_name": "Md. Ridoy Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:56 PM"
+  },
+  {
+    "id": 493,
+    "employee_id": "231527",
+    "employee_name": "Md. Borhan Uddin",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:57 PM"
+  },
+  {
+    "id": 494,
+    "employee_id": "161138",
+    "employee_name": "Hasibur Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "id": 495,
+    "employee_id": "231112",
+    "employee_name": "Md. Mizanur Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "id": 496,
+    "employee_id": "170741",
+    "employee_name": "Md. Rasel Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "id": 497,
+    "employee_id": "250345",
+    "employee_name": "Bablu Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:00 PM"
+  },
+  {
+    "id": 498,
+    "employee_id": "200397",
+    "employee_name": "Md. Riyad Hossen",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:00 PM"
+  },
+  {
+    "id": 499,
+    "employee_id": "180660",
+    "employee_name": "Abdur Rahman",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:01 PM"
+  },
+  {
+    "id": 500,
+    "employee_id": "230629",
+    "employee_name": "Md. Hossen Ali",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:02 PM"
+  },
+  {
+    "id": 501,
+    "employee_id": "120320",
+    "employee_name": "Md. Kowser Ali",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:04 PM"
+  },
+  {
+    "id": 502,
+    "employee_id": "160288",
+    "employee_name": "Sheikh Ahmed",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:06 PM"
+  },
+  {
+    "id": 503,
+    "employee_id": "150295",
+    "employee_name": "Md. Saiful Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:07 PM"
+  },
+  {
+    "id": 504,
+    "employee_id": "160834",
+    "employee_name": "Ronjit Akka",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:07 PM"
+  },
+  {
+    "id": 505,
+    "employee_id": "90042",
+    "employee_name": "Shree Badal Das",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:08 PM"
+  },
+  {
+    "id": 506,
+    "employee_id": "171043",
+    "employee_name": "Md. Samim Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:09 PM"
+  },
+  {
+    "id": 507,
+    "employee_id": "210389",
+    "employee_name": "Sk Abu Tamim",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "id": 508,
+    "employee_id": "210753",
+    "employee_name": "Alamin Mia",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "id": 509,
+    "employee_id": "130171",
+    "employee_name": "Md. Abdul Hamid",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "id": 510,
+    "employee_id": "230252",
+    "employee_name": "Md. Sakir Ahamad",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:12 PM"
+  },
+  {
+    "id": 511,
+    "employee_id": "160560",
+    "employee_name": "Md. Amdadul",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:13 PM"
+  },
+  {
+    "id": 512,
+    "employee_id": "210819",
+    "employee_name": "Md. Jamir Hossein",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:13 PM"
+  },
+  {
+    "id": 513,
+    "employee_id": "180743",
+    "employee_name": "Md. Misil Udden",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:14 PM"
+  },
+  {
+    "id": 514,
+    "employee_id": "161516",
+    "employee_name": "Md. Nurul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:14 PM"
+  },
+  {
+    "id": 515,
+    "employee_id": "200400",
+    "employee_name": "Md. Abu Hanifa",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:15 PM"
+  },
+  {
+    "id": 516,
+    "employee_id": "231324",
+    "employee_name": "Md. Mongurul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:15 PM"
+  },
+  {
+    "id": 517,
+    "employee_id": "70013",
+    "employee_name": "Md. Mannan",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:16 PM"
+  },
+  {
+    "id": 518,
+    "employee_id": "230685",
+    "employee_name": "Md. Rayhan Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:17 PM"
+  },
+  {
+    "id": 519,
+    "employee_id": "210713",
+    "employee_name": "Pranab Das",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:17 PM"
+  },
+  {
+    "id": 520,
+    "employee_id": "250146",
+    "employee_name": "Md. Habibur Rahman",
+    "quantity": 8,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:18 PM"
+  },
+  {
+    "id": 521,
+    "employee_id": "140392",
+    "employee_name": "Md. Mir Alam",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:18 PM"
+  },
+  {
+    "id": 522,
+    "employee_id": "210690",
+    "employee_name": "Md. Abdullah Al Galib",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:19 PM"
+  },
+  {
+    "id": 523,
+    "employee_id": "230655",
+    "employee_name": "Jasim Uddin",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:21 PM"
+  },
+  {
+    "id": 524,
+    "employee_id": "231513",
+    "employee_name": "Md. Abdul Rashid",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:21 PM"
+  },
+  {
+    "id": 525,
+    "employee_id": "170641",
+    "employee_name": "Main Uddin",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:22 PM"
+  },
+  {
+    "id": 526,
+    "employee_id": "230478",
+    "employee_name": "Md. Kamruzaman",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:23 PM"
+  },
+  {
+    "id": 527,
+    "employee_id": "180204",
+    "employee_name": "Md. Babul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:23 PM"
+  },
+  {
+    "id": 528,
+    "employee_id": "220366",
+    "employee_name": "Biswanath Mardi",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:25 PM"
+  },
+  {
+    "id": 529,
+    "employee_id": "230804",
+    "employee_name": "Md. Rakib Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:26 PM"
+  },
+  {
+    "id": 530,
+    "employee_id": "180101",
+    "employee_name": "Md Khirul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:26 PM"
+  },
+  {
+    "id": 531,
+    "employee_id": "80009",
+    "employee_name": "Md. Rakibul  Islam",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:28 PM"
+  },
+  {
+    "id": 532,
+    "employee_id": "161246",
+    "employee_name": "Md. Shahidul Pramanik",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:29 PM"
+  },
+  {
+    "id": 533,
+    "employee_id": "160253",
+    "employee_name": "Md. Aminul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:29 PM"
+  },
+  {
+    "id": 534,
+    "employee_id": "180047",
+    "employee_name": "Md. Sofiqul Islam",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:30 PM"
+  },
+  {
+    "id": 535,
+    "employee_id": "250161",
+    "employee_name": "Rubel Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:31 PM"
+  },
+  {
+    "id": 536,
+    "employee_id": "230078",
+    "employee_name": "Haradhit Kumar Mondol",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:31 PM"
+  },
+  {
+    "id": 537,
+    "employee_id": "140443",
+    "employee_name": "Md. Salim Mia",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "taka chilo na",
+    "timestamp": "29 Nov 2025, 03:32 PM"
+  },
+  {
+    "id": 538,
+    "employee_id": "210094",
+    "employee_name": "Md. Sohel Rana",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:33 PM"
+  },
+  {
+    "id": 539,
+    "employee_id": "230373",
+    "employee_name": "Md. Apon Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:34 PM"
+  },
+  {
+    "id": 540,
+    "employee_id": "210867",
+    "employee_name": "Md. Majnu Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:34 PM"
+  },
+  {
+    "id": 541,
+    "employee_id": "150259",
+    "employee_name": "Md. Jahidul Islam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:35 PM"
+  },
+  {
+    "id": 542,
+    "employee_id": "150009",
+    "employee_name": "Md. Solayman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "id": 543,
+    "employee_id": "160427",
+    "employee_name": "Md. Mahshin",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "id": 544,
+    "employee_id": "220578",
+    "employee_name": "Meghnadh Tilok Das",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "id": 545,
+    "employee_id": "170810",
+    "employee_name": "Md. Habibur Rahman Hakim",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "id": 546,
+    "employee_id": "231299",
+    "employee_name": "Md. Younus Ali",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:40 PM"
+  },
+  {
+    "id": 547,
+    "employee_id": "200484",
+    "employee_name": "Md. Arif Hossain",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:40 PM"
+  },
+  {
+    "id": 548,
+    "employee_id": "210709",
+    "employee_name": "Md. Abdul Haque",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:41 PM"
+  },
+  {
+    "id": 549,
+    "employee_id": "200133",
+    "employee_name": "Ripon Kumer",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:41 PM"
+  },
+  {
+    "id": 550,
+    "employee_id": "240059",
+    "employee_name": "Abu Said",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:42 PM"
+  },
+  {
+    "id": 551,
+    "employee_id": "180223",
+    "employee_name": "Md. Hasan Ali",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:43 PM"
+  },
+  {
+    "id": 552,
+    "employee_id": "190002",
+    "employee_name": "Md. Monirul Islam",
+    "quantity": 8,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:43 PM"
+  },
+  {
+    "id": 553,
+    "employee_id": "140442",
+    "employee_name": "Momen Mia",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:44 PM"
+  },
+  {
+    "id": 554,
+    "employee_id": "190511",
+    "employee_name": "Md. Tojibor Sheikh",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:47 PM"
+  },
+  {
+    "id": 555,
+    "employee_id": "110146",
+    "employee_name": "Md. Shahjahan",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:48 PM"
+  },
+  {
+    "id": 556,
+    "employee_id": "200256",
+    "employee_name": "Md. Anowar Hosen",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:49 PM"
+  },
+  {
+    "id": 557,
+    "employee_id": "100092",
+    "employee_name": "Tapan Chandra Das",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:50 PM"
+  },
+  {
+    "id": 558,
+    "employee_id": "250331",
+    "employee_name": "Pranto Sen",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:51 PM"
+  },
+  {
+    "id": 559,
+    "employee_id": "210552",
+    "employee_name": "Md. Shamim Hossain",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:51 PM"
+  },
+  {
+    "id": 560,
+    "employee_id": "160235",
+    "employee_name": "Mohammad Kafil",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:52 PM"
+  },
+  {
+    "id": 561,
+    "employee_id": "190490",
+    "employee_name": "Md. Khorshad Alam",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:53 PM"
+  },
+  {
+    "id": 562,
+    "employee_id": "160181",
+    "employee_name": "Sheikh Ashdur Rahaman",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:54 PM"
+  },
+  {
+    "id": 563,
+    "employee_id": "90039",
+    "employee_name": "Md.  Halal Uddin",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:55 PM"
+  },
+  {
+    "id": 564,
+    "employee_id": "210314",
+    "employee_name": "Parshu Ram Bormon",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:55 PM"
+  },
+  {
+    "id": 565,
+    "employee_id": "160089",
+    "employee_name": "Md. Abu Saied",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:58 PM"
+  },
+  {
+    "id": 566,
+    "employee_id": "231266",
+    "employee_name": "Md. Alamin Hossain",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 03:58 PM"
+  },
+  {
+    "id": 567,
+    "employee_id": "100129",
+    "employee_name": "Md. Kharul Islam",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:02 PM"
+  },
+  {
+    "id": 568,
+    "employee_id": "250173",
+    "employee_name": "Palash",
+    "quantity": 8,
+    "seller": "saju",
+    "remark": "Taka chilo na",
+    "timestamp": "29 Nov 2025, 04:04 PM"
+  },
+  {
+    "id": 569,
+    "employee_id": "70059",
+    "employee_name": "Md. Rasel Rana",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:06 PM"
+  },
+  {
+    "id": 570,
+    "employee_id": "240130",
+    "employee_name": "Md. Masum Sarder",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:07 PM"
+  },
+  {
+    "id": 571,
+    "employee_id": "161260",
+    "employee_name": "Ataur Rahaman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:08 PM"
+  },
+  {
+    "id": 572,
+    "employee_id": "230956",
+    "employee_name": "Md. Anis",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:09 PM"
+  },
+  {
+    "id": 573,
+    "employee_id": "210272",
+    "employee_name": "Babul",
+    "quantity": 6,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:13 PM"
+  },
+  {
+    "id": 574,
+    "employee_id": "70013",
+    "employee_name": "Md. Mannan",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "Taka chilo na",
+    "timestamp": "29 Nov 2025, 04:14 PM"
+  },
+  {
+    "id": 575,
+    "employee_id": "230924",
+    "employee_name": "Md. Monirozzaman Moni",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:14 PM"
+  },
+  {
+    "id": 576,
+    "employee_id": "100053",
+    "employee_name": "Prosenjit Sarker",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:15 PM"
+  },
+  {
+    "id": 577,
+    "employee_id": "180192",
+    "employee_name": "Md. Selim Akand",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:16 PM"
+  },
+  {
+    "id": 578,
+    "employee_id": "190289",
+    "employee_name": "Md. Badal",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:21 PM"
+  },
+  {
+    "id": 579,
+    "employee_id": "220363",
+    "employee_name": "Md. Habibur Rahman",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:25 PM"
+  },
+  {
+    "id": 580,
+    "employee_id": "110112",
+    "employee_name": "Palash Kumar Mondol",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:26 PM"
+  },
+  {
+    "id": 581,
+    "employee_id": "231096",
+    "employee_name": "Md. Badal Miah",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:31 PM"
+  },
+  {
+    "id": 582,
+    "employee_id": "210283",
+    "employee_name": "Md. Rajib Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:31 PM"
+  },
+  {
+    "id": 583,
+    "employee_id": "210409",
+    "employee_name": "Md. Abdul Monnf",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:33 PM"
+  },
+  {
+    "id": 584,
+    "employee_id": "140489",
+    "employee_name": "Md. Wadud Mia",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:33 PM"
+  },
+  {
+    "id": 585,
+    "employee_id": "231249",
+    "employee_name": "Md. Zahidul Islam",
+    "quantity": 7,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:35 PM"
+  },
+  {
+    "id": 586,
+    "employee_id": "160781",
+    "employee_name": "Md. Khalililullah",
+    "quantity": 10,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:38 PM"
+  },
+  {
+    "id": 587,
+    "employee_id": "150376",
+    "employee_name": "Md. Salim Hosin",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:38 PM"
+  },
+  {
+    "id": 588,
+    "employee_id": "230348",
+    "employee_name": "Mayoum Hossain",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:41 PM"
+  },
+  {
+    "id": 589,
+    "employee_id": "230518",
+    "employee_name": "Md. Bijoy Hossen",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:42 PM"
+  },
+  {
+    "id": 590,
+    "employee_id": "210061",
+    "employee_name": "Md. Jahidul Islam",
+    "quantity": 5,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:44 PM"
+  },
+  {
+    "id": 591,
+    "employee_id": "210693",
+    "employee_name": "Hanif",
+    "quantity": 3,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:55 PM"
+  },
+  {
+    "id": 592,
+    "employee_id": "210693",
+    "employee_name": "Hanif",
+    "quantity": 2,
+    "seller": "saju",
+    "remark": "taka chilo na ",
+    "timestamp": "29 Nov 2025, 04:56 PM"
+  },
+  {
+    "id": 593,
+    "employee_id": "231281",
+    "employee_name": "Rakibul Islam",
+    "quantity": 1,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:57 PM"
+  },
+  {
+    "id": 594,
+    "employee_id": "250242",
+    "employee_name": "Md. Soriful Islam",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:58 PM"
+  },
+  {
+    "id": 595,
+    "employee_id": "130496",
+    "employee_name": "Abdul Rahim",
+    "quantity": 4,
+    "seller": "saju",
+    "remark": "",
+    "timestamp": "29 Nov 2025, 04:59 PM"
+  }
+]

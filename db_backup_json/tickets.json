@@ -1,0 +1,2847 @@
+[
+  {
+    "employee_id": "210679",
+    "total_quantity": 1,
+    "first_timestamp": "26 Nov 2025, 09:35 PM"
+  },
+  {
+    "employee_id": "230134",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 10:52 AM"
+  },
+  {
+    "employee_id": "220678",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 11:00 AM"
+  },
+  {
+    "employee_id": "250329",
+    "total_quantity": 1,
+    "first_timestamp": "27 Nov 2025, 11:30 AM"
+  },
+  {
+    "employee_id": "80156",
+    "total_quantity": 3,
+    "first_timestamp": "27 Nov 2025, 11:48 AM"
+  },
+  {
+    "employee_id": "130297",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 12:00 PM"
+  },
+  {
+    "employee_id": "210846",
+    "total_quantity": 8,
+    "first_timestamp": "27 Nov 2025, 12:11 PM"
+  },
+  {
+    "employee_id": "220117",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 12:32 PM"
+  },
+  {
+    "employee_id": "190301",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:02 PM"
+  },
+  {
+    "employee_id": "160195",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:03 PM"
+  },
+  {
+    "employee_id": "231073",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:06 PM"
+  },
+  {
+    "employee_id": "70044",
+    "total_quantity": 1,
+    "first_timestamp": "27 Nov 2025, 01:09 PM"
+  },
+  {
+    "employee_id": "231116",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:16 PM"
+  },
+  {
+    "employee_id": "200347",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:26 PM"
+  },
+  {
+    "employee_id": "250366",
+    "total_quantity": 5,
+    "first_timestamp": "27 Nov 2025, 01:27 PM"
+  },
+  {
+    "employee_id": "150490",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:28 PM"
+  },
+  {
+    "employee_id": "230114",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:30 PM"
+  },
+  {
+    "employee_id": "230805",
+    "total_quantity": 7,
+    "first_timestamp": "27 Nov 2025, 01:31 PM"
+  },
+  {
+    "employee_id": "160304",
+    "total_quantity": 5,
+    "first_timestamp": "27 Nov 2025, 01:32 PM"
+  },
+  {
+    "employee_id": "210912",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:33 PM"
+  },
+  {
+    "employee_id": "240140",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 01:36 PM"
+  },
+  {
+    "employee_id": "240016",
+    "total_quantity": 1,
+    "first_timestamp": "27 Nov 2025, 01:42 PM"
+  },
+  {
+    "employee_id": "150392",
+    "total_quantity": 3,
+    "first_timestamp": "27 Nov 2025, 01:48 PM"
+  },
+  {
+    "employee_id": "230011",
+    "total_quantity": 5,
+    "first_timestamp": "27 Nov 2025, 01:52 PM"
+  },
+  {
+    "employee_id": "210405",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 01:53 PM"
+  },
+  {
+    "employee_id": "210162",
+    "total_quantity": 5,
+    "first_timestamp": "27 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "231338",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 02:05 PM"
+  },
+  {
+    "employee_id": "100016",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 02:06 PM"
+  },
+  {
+    "employee_id": "220445",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 02:11 PM"
+  },
+  {
+    "employee_id": "170475",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 02:12 PM"
+  },
+  {
+    "employee_id": "150242",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 02:13 PM"
+  },
+  {
+    "employee_id": "180500",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 02:18 PM"
+  },
+  {
+    "employee_id": "210652",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 02:22 PM"
+  },
+  {
+    "employee_id": "220536",
+    "total_quantity": 2,
+    "first_timestamp": "27 Nov 2025, 02:23 PM"
+  },
+  {
+    "employee_id": "210770",
+    "total_quantity": 5,
+    "first_timestamp": "27 Nov 2025, 02:28 PM"
+  },
+  {
+    "employee_id": "150095",
+    "total_quantity": 10,
+    "first_timestamp": "27 Nov 2025, 02:36 PM"
+  },
+  {
+    "employee_id": "210500",
+    "total_quantity": 4,
+    "first_timestamp": "27 Nov 2025, 02:44 PM"
+  },
+  {
+    "employee_id": "220038",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 10:32 AM"
+  },
+  {
+    "employee_id": "190255",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 10:35 AM"
+  },
+  {
+    "employee_id": "231130",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 10:38 AM"
+  },
+  {
+    "employee_id": "170016",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 10:39 AM"
+  },
+  {
+    "employee_id": "210901",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 10:48 AM"
+  },
+  {
+    "employee_id": "220179",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 10:51 AM"
+  },
+  {
+    "employee_id": "180851",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 10:52 AM"
+  },
+  {
+    "employee_id": "220033",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 10:54 AM"
+  },
+  {
+    "employee_id": "220190",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 10:56 AM"
+  },
+  {
+    "employee_id": "231532",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:03 AM"
+  },
+  {
+    "employee_id": "190528",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:05 AM"
+  },
+  {
+    "employee_id": "180590",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:11 AM"
+  },
+  {
+    "employee_id": "200106",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:16 AM"
+  },
+  {
+    "employee_id": "231313",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 11:17 AM"
+  },
+  {
+    "employee_id": "130017",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:19 AM"
+  },
+  {
+    "employee_id": "170581",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:21 AM"
+  },
+  {
+    "employee_id": "161322",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:22 AM"
+  },
+  {
+    "employee_id": "230311",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:23 AM"
+  },
+  {
+    "employee_id": "160459",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:26 AM"
+  },
+  {
+    "employee_id": "170971",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:26 AM"
+  },
+  {
+    "employee_id": "230547",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:27 AM"
+  },
+  {
+    "employee_id": "100061",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 11:28 AM"
+  },
+  {
+    "employee_id": "180784",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:28 AM"
+  },
+  {
+    "employee_id": "220338",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 11:29 AM"
+  },
+  {
+    "employee_id": "231268",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:34 AM"
+  },
+  {
+    "employee_id": "161197",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:35 AM"
+  },
+  {
+    "employee_id": "210631",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 11:37 AM"
+  },
+  {
+    "employee_id": "80013",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 11:38 AM"
+  },
+  {
+    "employee_id": "220265",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "80083",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "140276",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:40 AM"
+  },
+  {
+    "employee_id": "200414",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:42 AM"
+  },
+  {
+    "employee_id": "230086",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:43 AM"
+  },
+  {
+    "employee_id": "161376",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:46 AM"
+  },
+  {
+    "employee_id": "80060",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:49 AM"
+  },
+  {
+    "employee_id": "220323",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:51 AM"
+  },
+  {
+    "employee_id": "130272",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:52 AM"
+  },
+  {
+    "employee_id": "140452",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 11:53 AM"
+  },
+  {
+    "employee_id": "210860",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:56 AM"
+  },
+  {
+    "employee_id": "230049",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:58 AM"
+  },
+  {
+    "employee_id": "130112",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 11:59 AM"
+  },
+  {
+    "employee_id": "220129",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 11:59 AM"
+  },
+  {
+    "employee_id": "250252",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:00 PM"
+  },
+  {
+    "employee_id": "140298",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:01 PM"
+  },
+  {
+    "employee_id": "230136",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:03 PM"
+  },
+  {
+    "employee_id": "170301",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 12:08 PM"
+  },
+  {
+    "employee_id": "230735",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:08 PM"
+  },
+  {
+    "employee_id": "230617",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:09 PM"
+  },
+  {
+    "employee_id": "250275",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 12:09 PM"
+  },
+  {
+    "employee_id": "160651",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:10 PM"
+  },
+  {
+    "employee_id": "60006",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:10 PM"
+  },
+  {
+    "employee_id": "90056",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 12:16 PM"
+  },
+  {
+    "employee_id": "210653",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 01:44 PM"
+  },
+  {
+    "employee_id": "230222",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 01:45 PM"
+  },
+  {
+    "employee_id": "150393",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 01:45 PM"
+  },
+  {
+    "employee_id": "220463",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:47 PM"
+  },
+  {
+    "employee_id": "190033",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 01:48 PM"
+  },
+  {
+    "employee_id": "190615",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:50 PM"
+  },
+  {
+    "employee_id": "160429",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:51 PM"
+  },
+  {
+    "employee_id": "231177",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 01:51 PM"
+  },
+  {
+    "employee_id": "170454",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:52 PM"
+  },
+  {
+    "employee_id": "100029",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 01:53 PM"
+  },
+  {
+    "employee_id": "170362",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 01:54 PM"
+  },
+  {
+    "employee_id": "160594",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 01:57 PM"
+  },
+  {
+    "employee_id": "210576",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "170700",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "150184",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "240168",
+    "total_quantity": 7,
+    "first_timestamp": "28 Nov 2025, 02:00 PM"
+  },
+  {
+    "employee_id": "220677",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "employee_id": "231212",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "employee_id": "210284",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:03 PM"
+  },
+  {
+    "employee_id": "230896",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:04 PM"
+  },
+  {
+    "employee_id": "130369",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:05 PM"
+  },
+  {
+    "employee_id": "220242",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:06 PM"
+  },
+  {
+    "employee_id": "230862",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:06 PM"
+  },
+  {
+    "employee_id": "200511",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:07 PM"
+  },
+  {
+    "employee_id": "250025",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:08 PM"
+  },
+  {
+    "employee_id": "180338",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:08 PM"
+  },
+  {
+    "employee_id": "170220",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:09 PM"
+  },
+  {
+    "employee_id": "160036",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "employee_id": "160566",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "employee_id": "130261",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:10 PM"
+  },
+  {
+    "employee_id": "130135",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:12 PM"
+  },
+  {
+    "employee_id": "100035",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:12 PM"
+  },
+  {
+    "employee_id": "210841",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:15 PM"
+  },
+  {
+    "employee_id": "230347",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:15 PM"
+  },
+  {
+    "employee_id": "170480",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:16 PM"
+  },
+  {
+    "employee_id": "231538",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:18 PM"
+  },
+  {
+    "employee_id": "210702",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "employee_id": "240222",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "employee_id": "220400",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:19 PM"
+  },
+  {
+    "employee_id": "231304",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:21 PM"
+  },
+  {
+    "employee_id": "231062",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:23 PM"
+  },
+  {
+    "employee_id": "230682",
+    "total_quantity": 7,
+    "first_timestamp": "28 Nov 2025, 02:25 PM"
+  },
+  {
+    "employee_id": "250263",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 02:26 PM"
+  },
+  {
+    "employee_id": "160650",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:29 PM"
+  },
+  {
+    "employee_id": "140440",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:30 PM"
+  },
+  {
+    "employee_id": "220253",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "employee_id": "161093",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "employee_id": "231426",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 02:32 PM"
+  },
+  {
+    "employee_id": "230488",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:33 PM"
+  },
+  {
+    "employee_id": "230778",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:35 PM"
+  },
+  {
+    "employee_id": "170219",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:35 PM"
+  },
+  {
+    "employee_id": "250073",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:36 PM"
+  },
+  {
+    "employee_id": "231032",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:38 PM"
+  },
+  {
+    "employee_id": "161456",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:38 PM"
+  },
+  {
+    "employee_id": "170470",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:39 PM"
+  },
+  {
+    "employee_id": "170848",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:39 PM"
+  },
+  {
+    "employee_id": "200203",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 02:41 PM"
+  },
+  {
+    "employee_id": "220453",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:42 PM"
+  },
+  {
+    "employee_id": "150168",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:43 PM"
+  },
+  {
+    "employee_id": "220315",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:44 PM"
+  },
+  {
+    "employee_id": "160230",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:45 PM"
+  },
+  {
+    "employee_id": "160530",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:49 PM"
+  },
+  {
+    "employee_id": "230638",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 02:52 PM"
+  },
+  {
+    "employee_id": "230842",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:52 PM"
+  },
+  {
+    "employee_id": "200435",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 02:55 PM"
+  },
+  {
+    "employee_id": "231409",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 02:55 PM"
+  },
+  {
+    "employee_id": "230699",
+    "total_quantity": 6,
+    "first_timestamp": "28 Nov 2025, 03:01 PM"
+  },
+  {
+    "employee_id": "250172",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:02 PM"
+  },
+  {
+    "employee_id": "240206",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:05 PM"
+  },
+  {
+    "employee_id": "231265",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 03:11 PM"
+  },
+  {
+    "employee_id": "210677",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 03:14 PM"
+  },
+  {
+    "employee_id": "231374",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 03:23 PM"
+  },
+  {
+    "employee_id": "231494",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "employee_id": "231506",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "employee_id": "230947",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "employee_id": "170012",
+    "total_quantity": 3,
+    "first_timestamp": "28 Nov 2025, 03:25 PM"
+  },
+  {
+    "employee_id": "240076",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:28 PM"
+  },
+  {
+    "employee_id": "80129",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:29 PM"
+  },
+  {
+    "employee_id": "231309",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:34 PM"
+  },
+  {
+    "employee_id": "160663",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:38 PM"
+  },
+  {
+    "employee_id": "230710",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 03:38 PM"
+  },
+  {
+    "employee_id": "210178",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 03:40 PM"
+  },
+  {
+    "employee_id": "170776",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 03:40 PM"
+  },
+  {
+    "employee_id": "190488",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:41 PM"
+  },
+  {
+    "employee_id": "220579",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 03:47 PM"
+  },
+  {
+    "employee_id": "140436",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:48 PM"
+  },
+  {
+    "employee_id": "160415",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:48 PM"
+  },
+  {
+    "employee_id": "180785",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 03:50 PM"
+  },
+  {
+    "employee_id": "210682",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 03:51 PM"
+  },
+  {
+    "employee_id": "200237",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 03:51 PM"
+  },
+  {
+    "employee_id": "250040",
+    "total_quantity": 7,
+    "first_timestamp": "28 Nov 2025, 03:57 PM"
+  },
+  {
+    "employee_id": "160337",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:05 PM"
+  },
+  {
+    "employee_id": "231239",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:05 PM"
+  },
+  {
+    "employee_id": "200292",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:07 PM"
+  },
+  {
+    "employee_id": "231503",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 04:07 PM"
+  },
+  {
+    "employee_id": "231114",
+    "total_quantity": 1,
+    "first_timestamp": "28 Nov 2025, 04:08 PM"
+  },
+  {
+    "employee_id": "190507",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:08 PM"
+  },
+  {
+    "employee_id": "140461",
+    "total_quantity": 6,
+    "first_timestamp": "28 Nov 2025, 04:10 PM"
+  },
+  {
+    "employee_id": "130238",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:11 PM"
+  },
+  {
+    "employee_id": "210817",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:11 PM"
+  },
+  {
+    "employee_id": "250268",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:12 PM"
+  },
+  {
+    "employee_id": "140288",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:15 PM"
+  },
+  {
+    "employee_id": "230388",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:21 PM"
+  },
+  {
+    "employee_id": "210095",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:21 PM"
+  },
+  {
+    "employee_id": "200266",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:24 PM"
+  },
+  {
+    "employee_id": "210067",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:24 PM"
+  },
+  {
+    "employee_id": "240027",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:27 PM"
+  },
+  {
+    "employee_id": "161534",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "employee_id": "170296",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "employee_id": "170299",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:28 PM"
+  },
+  {
+    "employee_id": "250070",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:30 PM"
+  },
+  {
+    "employee_id": "170294",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:30 PM"
+  },
+  {
+    "employee_id": "160681",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:31 PM"
+  },
+  {
+    "employee_id": "160678",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:31 PM"
+  },
+  {
+    "employee_id": "210851",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:33 PM"
+  },
+  {
+    "employee_id": "160689",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:34 PM"
+  },
+  {
+    "employee_id": "130242",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:34 PM"
+  },
+  {
+    "employee_id": "220139",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:37 PM"
+  },
+  {
+    "employee_id": "240173",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:37 PM"
+  },
+  {
+    "employee_id": "150497",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:43 PM"
+  },
+  {
+    "employee_id": "140145",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:44 PM"
+  },
+  {
+    "employee_id": "140238",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:44 PM"
+  },
+  {
+    "employee_id": "250269",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:46 PM"
+  },
+  {
+    "employee_id": "240229",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:47 PM"
+  },
+  {
+    "employee_id": "180799",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:47 PM"
+  },
+  {
+    "employee_id": "140249",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:48 PM"
+  },
+  {
+    "employee_id": "80086",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "employee_id": "220372",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "employee_id": "130382",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:50 PM"
+  },
+  {
+    "employee_id": "200291",
+    "total_quantity": 2,
+    "first_timestamp": "28 Nov 2025, 04:51 PM"
+  },
+  {
+    "employee_id": "190396",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:53 PM"
+  },
+  {
+    "employee_id": "170434",
+    "total_quantity": 5,
+    "first_timestamp": "28 Nov 2025, 04:53 PM"
+  },
+  {
+    "employee_id": "230361",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:56 PM"
+  },
+  {
+    "employee_id": "170371",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 04:57 PM"
+  },
+  {
+    "employee_id": "210649",
+    "total_quantity": 10,
+    "first_timestamp": "28 Nov 2025, 05:06 PM"
+  },
+  {
+    "employee_id": "210694",
+    "total_quantity": 4,
+    "first_timestamp": "28 Nov 2025, 05:07 PM"
+  },
+  {
+    "employee_id": "150277",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 09:55 AM"
+  },
+  {
+    "employee_id": "230016",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 09:55 AM"
+  },
+  {
+    "employee_id": "140347",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 09:56 AM"
+  },
+  {
+    "employee_id": "200284",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 09:58 AM"
+  },
+  {
+    "employee_id": "160202",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:17 AM"
+  },
+  {
+    "employee_id": "180337",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "employee_id": "220373",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "employee_id": "180157",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:19 AM"
+  },
+  {
+    "employee_id": "250319",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 10:20 AM"
+  },
+  {
+    "employee_id": "231046",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:20 AM"
+  },
+  {
+    "employee_id": "70026",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:21 AM"
+  },
+  {
+    "employee_id": "150477",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 10:22 AM"
+  },
+  {
+    "employee_id": "240024",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 10:24 AM"
+  },
+  {
+    "employee_id": "120138",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 10:29 AM"
+  },
+  {
+    "employee_id": "80075",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 10:30 AM"
+  },
+  {
+    "employee_id": "130422",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:34 AM"
+  },
+  {
+    "employee_id": "130464",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:36 AM"
+  },
+  {
+    "employee_id": "231319",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:37 AM"
+  },
+  {
+    "employee_id": "130079",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "90085",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "140142",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "250321",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:39 AM"
+  },
+  {
+    "employee_id": "220680",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "employee_id": "170779",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "employee_id": "150523",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "employee_id": "230720",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 11:41 AM"
+  },
+  {
+    "employee_id": "190605",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:42 AM"
+  },
+  {
+    "employee_id": "120308",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:42 AM"
+  },
+  {
+    "employee_id": "230724",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "employee_id": "210810",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "employee_id": "90034",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "employee_id": "231215",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 11:43 AM"
+  },
+  {
+    "employee_id": "231484",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:44 AM"
+  },
+  {
+    "employee_id": "150409",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:44 AM"
+  },
+  {
+    "employee_id": "220291",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:49 AM"
+  },
+  {
+    "employee_id": "170471",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:51 AM"
+  },
+  {
+    "employee_id": "210625",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "employee_id": "210225",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "employee_id": "140159",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "employee_id": "210475",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:53 AM"
+  },
+  {
+    "employee_id": "200288",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:54 AM"
+  },
+  {
+    "employee_id": "161337",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:55 AM"
+  },
+  {
+    "employee_id": "220007",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 11:55 AM"
+  },
+  {
+    "employee_id": "231045",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "employee_id": "170205",
+    "total_quantity": 7,
+    "first_timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "employee_id": "150001",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:56 AM"
+  },
+  {
+    "employee_id": "160264",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 11:57 AM"
+  },
+  {
+    "employee_id": "220364",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:57 AM"
+  },
+  {
+    "employee_id": "160734",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "employee_id": "160733",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "employee_id": "200379",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 11:58 AM"
+  },
+  {
+    "employee_id": "240136",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "employee_id": "240178",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "employee_id": "120386",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 11:59 AM"
+  },
+  {
+    "employee_id": "130300",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "employee_id": "220083",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "employee_id": "230085",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:00 PM"
+  },
+  {
+    "employee_id": "230695",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "employee_id": "230909",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "employee_id": "190484",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "employee_id": "80146",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:01 PM"
+  },
+  {
+    "employee_id": "230091",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "employee_id": "170883",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "employee_id": "70011",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "employee_id": "230499",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:02 PM"
+  },
+  {
+    "employee_id": "231448",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "employee_id": "150006",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "employee_id": "161447",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "employee_id": "200403",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:03 PM"
+  },
+  {
+    "employee_id": "210017",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "employee_id": "230385",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "employee_id": "220281",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:04 PM"
+  },
+  {
+    "employee_id": "110012",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:06 PM"
+  },
+  {
+    "employee_id": "160412",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:07 PM"
+  },
+  {
+    "employee_id": "140177",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:10 PM"
+  },
+  {
+    "employee_id": "140163",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:11 PM"
+  },
+  {
+    "employee_id": "200383",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:11 PM"
+  },
+  {
+    "employee_id": "120071",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 12:18 PM"
+  },
+  {
+    "employee_id": "231402",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:19 PM"
+  },
+  {
+    "employee_id": "200282",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:20 PM"
+  },
+  {
+    "employee_id": "231022",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 12:21 PM"
+  },
+  {
+    "employee_id": "80106",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:25 PM"
+  },
+  {
+    "employee_id": "230676",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:26 PM"
+  },
+  {
+    "employee_id": "220369",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:27 PM"
+  },
+  {
+    "employee_id": "110048",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:29 PM"
+  },
+  {
+    "employee_id": "180203",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 12:30 PM"
+  },
+  {
+    "employee_id": "231137",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:30 PM"
+  },
+  {
+    "employee_id": "231392",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:31 PM"
+  },
+  {
+    "employee_id": "240251",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:32 PM"
+  },
+  {
+    "employee_id": "161031",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:33 PM"
+  },
+  {
+    "employee_id": "200353",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:34 PM"
+  },
+  {
+    "employee_id": "220068",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:35 PM"
+  },
+  {
+    "employee_id": "190263",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:37 PM"
+  },
+  {
+    "employee_id": "231220",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 12:37 PM"
+  },
+  {
+    "employee_id": "160687",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:40 PM"
+  },
+  {
+    "employee_id": "80163",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:41 PM"
+  },
+  {
+    "employee_id": "210678",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:44 PM"
+  },
+  {
+    "employee_id": "230002",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:45 PM"
+  },
+  {
+    "employee_id": "140138",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:45 PM"
+  },
+  {
+    "employee_id": "200486",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:47 PM"
+  },
+  {
+    "employee_id": "150413",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:47 PM"
+  },
+  {
+    "employee_id": "200261",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "employee_id": "250028",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "employee_id": "220611",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "employee_id": "250183",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:51 PM"
+  },
+  {
+    "employee_id": "220649",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "employee_id": "240255",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "employee_id": "250182",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "employee_id": "220620",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "employee_id": "250122",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:52 PM"
+  },
+  {
+    "employee_id": "230985",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "employee_id": "240107",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "employee_id": "120061",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "employee_id": "120070",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:53 PM"
+  },
+  {
+    "employee_id": "231410",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:54 PM"
+  },
+  {
+    "employee_id": "210854",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:54 PM"
+  },
+  {
+    "employee_id": "230990",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 12:55 PM"
+  },
+  {
+    "employee_id": "210069",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 12:56 PM"
+  },
+  {
+    "employee_id": "230050",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 12:57 PM"
+  },
+  {
+    "employee_id": "150222",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 12:58 PM"
+  },
+  {
+    "employee_id": "231401",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:00 PM"
+  },
+  {
+    "employee_id": "161096",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:01 PM"
+  },
+  {
+    "employee_id": "250133",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:01 PM"
+  },
+  {
+    "employee_id": "160005",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 01:02 PM"
+  },
+  {
+    "employee_id": "120043",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 01:04 PM"
+  },
+  {
+    "employee_id": "150346",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:05 PM"
+  },
+  {
+    "employee_id": "170993",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:06 PM"
+  },
+  {
+    "employee_id": "80164",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:06 PM"
+  },
+  {
+    "employee_id": "190596",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:07 PM"
+  },
+  {
+    "employee_id": "230911",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 01:08 PM"
+  },
+  {
+    "employee_id": "220111",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:14 PM"
+  },
+  {
+    "employee_id": "180466",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:16 PM"
+  },
+  {
+    "employee_id": "230732",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:17 PM"
+  },
+  {
+    "employee_id": "250123",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:18 PM"
+  },
+  {
+    "employee_id": "231099",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "employee_id": "250098",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "employee_id": "210663",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:19 PM"
+  },
+  {
+    "employee_id": "230420",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:20 PM"
+  },
+  {
+    "employee_id": "161118",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:21 PM"
+  },
+  {
+    "employee_id": "130482",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:22 PM"
+  },
+  {
+    "employee_id": "130063",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:24 PM"
+  },
+  {
+    "employee_id": "220120",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:26 PM"
+  },
+  {
+    "employee_id": "230928",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 01:27 PM"
+  },
+  {
+    "employee_id": "250198",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 01:28 PM"
+  },
+  {
+    "employee_id": "220512",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:28 PM"
+  },
+  {
+    "employee_id": "230048",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:29 PM"
+  },
+  {
+    "employee_id": "80152",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:29 PM"
+  },
+  {
+    "employee_id": "250080",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:30 PM"
+  },
+  {
+    "employee_id": "220564",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:30 PM"
+  },
+  {
+    "employee_id": "170061",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:31 PM"
+  },
+  {
+    "employee_id": "220164",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:31 PM"
+  },
+  {
+    "employee_id": "220043",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 01:32 PM"
+  },
+  {
+    "employee_id": "230826",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 01:33 PM"
+  },
+  {
+    "employee_id": "80056",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 01:33 PM"
+  },
+  {
+    "employee_id": "170373",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:36 PM"
+  },
+  {
+    "employee_id": "160842",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:37 PM"
+  },
+  {
+    "employee_id": "230555",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:46 PM"
+  },
+  {
+    "employee_id": "240077",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:46 PM"
+  },
+  {
+    "employee_id": "160206",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:48 PM"
+  },
+  {
+    "employee_id": "180171",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:49 PM"
+  },
+  {
+    "employee_id": "180024",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:49 PM"
+  },
+  {
+    "employee_id": "230150",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:50 PM"
+  },
+  {
+    "employee_id": "190357",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:51 PM"
+  },
+  {
+    "employee_id": "150082",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:51 PM"
+  },
+  {
+    "employee_id": "240210",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 01:53 PM"
+  },
+  {
+    "employee_id": "150332",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:53 PM"
+  },
+  {
+    "employee_id": "210093",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:54 PM"
+  },
+  {
+    "employee_id": "210469",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:57 PM"
+  },
+  {
+    "employee_id": "110036",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "230888",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "250171",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 01:59 PM"
+  },
+  {
+    "employee_id": "250255",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:00 PM"
+  },
+  {
+    "employee_id": "210733",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:00 PM"
+  },
+  {
+    "employee_id": "160789",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:01 PM"
+  },
+  {
+    "employee_id": "230680",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:01 PM"
+  },
+  {
+    "employee_id": "70068",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:02 PM"
+  },
+  {
+    "employee_id": "140418",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:02 PM"
+  },
+  {
+    "employee_id": "210604",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:03 PM"
+  },
+  {
+    "employee_id": "210149",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:03 PM"
+  },
+  {
+    "employee_id": "230036",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:04 PM"
+  },
+  {
+    "employee_id": "231078",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:05 PM"
+  },
+  {
+    "employee_id": "160438",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:05 PM"
+  },
+  {
+    "employee_id": "210487",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:06 PM"
+  },
+  {
+    "employee_id": "210058",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:07 PM"
+  },
+  {
+    "employee_id": "200338",
+    "total_quantity": 7,
+    "first_timestamp": "29 Nov 2025, 02:07 PM"
+  },
+  {
+    "employee_id": "190215",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:08 PM"
+  },
+  {
+    "employee_id": "90057",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:08 PM"
+  },
+  {
+    "employee_id": "230005",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 02:09 PM"
+  },
+  {
+    "employee_id": "230251",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:09 PM"
+  },
+  {
+    "employee_id": "231376",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 02:10 PM"
+  },
+  {
+    "employee_id": "130430",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:10 PM"
+  },
+  {
+    "employee_id": "100125",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 02:11 PM"
+  },
+  {
+    "employee_id": "250155",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 02:12 PM"
+  },
+  {
+    "employee_id": "240037",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:12 PM"
+  },
+  {
+    "employee_id": "200333",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 02:13 PM"
+  },
+  {
+    "employee_id": "160100",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:13 PM"
+  },
+  {
+    "employee_id": "210700",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:17 PM"
+  },
+  {
+    "employee_id": "140105",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:18 PM"
+  },
+  {
+    "employee_id": "140451",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:19 PM"
+  },
+  {
+    "employee_id": "220464",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:20 PM"
+  },
+  {
+    "employee_id": "220421",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:20 PM"
+  },
+  {
+    "employee_id": "250167",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:22 PM"
+  },
+  {
+    "employee_id": "80043",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:24 PM"
+  },
+  {
+    "employee_id": "190644",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:24 PM"
+  },
+  {
+    "employee_id": "140278",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:25 PM"
+  },
+  {
+    "employee_id": "230889",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:26 PM"
+  },
+  {
+    "employee_id": "231021",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:26 PM"
+  },
+  {
+    "employee_id": "200332",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:27 PM"
+  },
+  {
+    "employee_id": "210494",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 02:28 PM"
+  },
+  {
+    "employee_id": "210822",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:28 PM"
+  },
+  {
+    "employee_id": "231320",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:30 PM"
+  },
+  {
+    "employee_id": "231043",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:30 PM"
+  },
+  {
+    "employee_id": "210781",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:31 PM"
+  },
+  {
+    "employee_id": "230424",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:32 PM"
+  },
+  {
+    "employee_id": "190047",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:32 PM"
+  },
+  {
+    "employee_id": "80162",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:33 PM"
+  },
+  {
+    "employee_id": "230430",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:33 PM"
+  },
+  {
+    "employee_id": "70071",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:35 PM"
+  },
+  {
+    "employee_id": "250328",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:35 PM"
+  },
+  {
+    "employee_id": "190637",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:36 PM"
+  },
+  {
+    "employee_id": "130337",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:37 PM"
+  },
+  {
+    "employee_id": "161036",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:38 PM"
+  },
+  {
+    "employee_id": "80023",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:39 PM"
+  },
+  {
+    "employee_id": "190683",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:40 PM"
+  },
+  {
+    "employee_id": "100069",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:41 PM"
+  },
+  {
+    "employee_id": "231106",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:42 PM"
+  },
+  {
+    "employee_id": "230469",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:42 PM"
+  },
+  {
+    "employee_id": "220231",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:43 PM"
+  },
+  {
+    "employee_id": "200215",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:43 PM"
+  },
+  {
+    "employee_id": "230633",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:44 PM"
+  },
+  {
+    "employee_id": "150162",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:45 PM"
+  },
+  {
+    "employee_id": "70074",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:46 PM"
+  },
+  {
+    "employee_id": "230651",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:46 PM"
+  },
+  {
+    "employee_id": "210750",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:47 PM"
+  },
+  {
+    "employee_id": "250091",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:47 PM"
+  },
+  {
+    "employee_id": "160984",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 02:48 PM"
+  },
+  {
+    "employee_id": "160041",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 02:50 PM"
+  },
+  {
+    "employee_id": "160677",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:52 PM"
+  },
+  {
+    "employee_id": "150115",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:53 PM"
+  },
+  {
+    "employee_id": "90113",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 02:54 PM"
+  },
+  {
+    "employee_id": "210368",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:55 PM"
+  },
+  {
+    "employee_id": "220348",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:55 PM"
+  },
+  {
+    "employee_id": "180642",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 02:56 PM"
+  },
+  {
+    "employee_id": "231527",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 02:57 PM"
+  },
+  {
+    "employee_id": "161138",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "employee_id": "231112",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "employee_id": "170741",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 02:58 PM"
+  },
+  {
+    "employee_id": "250345",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:00 PM"
+  },
+  {
+    "employee_id": "200397",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:00 PM"
+  },
+  {
+    "employee_id": "180660",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:01 PM"
+  },
+  {
+    "employee_id": "230629",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:02 PM"
+  },
+  {
+    "employee_id": "120320",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:04 PM"
+  },
+  {
+    "employee_id": "160288",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:06 PM"
+  },
+  {
+    "employee_id": "150295",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:07 PM"
+  },
+  {
+    "employee_id": "160834",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:07 PM"
+  },
+  {
+    "employee_id": "90042",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:08 PM"
+  },
+  {
+    "employee_id": "171043",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:09 PM"
+  },
+  {
+    "employee_id": "210389",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "employee_id": "210753",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "employee_id": "130171",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:11 PM"
+  },
+  {
+    "employee_id": "230252",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:12 PM"
+  },
+  {
+    "employee_id": "160560",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:13 PM"
+  },
+  {
+    "employee_id": "210819",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:13 PM"
+  },
+  {
+    "employee_id": "180743",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:14 PM"
+  },
+  {
+    "employee_id": "161516",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:14 PM"
+  },
+  {
+    "employee_id": "200400",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:15 PM"
+  },
+  {
+    "employee_id": "231324",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:15 PM"
+  },
+  {
+    "employee_id": "230685",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:17 PM"
+  },
+  {
+    "employee_id": "210713",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:17 PM"
+  },
+  {
+    "employee_id": "250146",
+    "total_quantity": 8,
+    "first_timestamp": "29 Nov 2025, 03:18 PM"
+  },
+  {
+    "employee_id": "140392",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 03:18 PM"
+  },
+  {
+    "employee_id": "210690",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:19 PM"
+  },
+  {
+    "employee_id": "230655",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:21 PM"
+  },
+  {
+    "employee_id": "231513",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:21 PM"
+  },
+  {
+    "employee_id": "170641",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:22 PM"
+  },
+  {
+    "employee_id": "230478",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 03:23 PM"
+  },
+  {
+    "employee_id": "180204",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:23 PM"
+  },
+  {
+    "employee_id": "220366",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:25 PM"
+  },
+  {
+    "employee_id": "230804",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:26 PM"
+  },
+  {
+    "employee_id": "180101",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:26 PM"
+  },
+  {
+    "employee_id": "80009",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:28 PM"
+  },
+  {
+    "employee_id": "161246",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:29 PM"
+  },
+  {
+    "employee_id": "160253",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:29 PM"
+  },
+  {
+    "employee_id": "180047",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:30 PM"
+  },
+  {
+    "employee_id": "250161",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:31 PM"
+  },
+  {
+    "employee_id": "230078",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:31 PM"
+  },
+  {
+    "employee_id": "140443",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:32 PM"
+  },
+  {
+    "employee_id": "210094",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:33 PM"
+  },
+  {
+    "employee_id": "230373",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:34 PM"
+  },
+  {
+    "employee_id": "210867",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:34 PM"
+  },
+  {
+    "employee_id": "150259",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:35 PM"
+  },
+  {
+    "employee_id": "150009",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "employee_id": "160427",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "employee_id": "220578",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "employee_id": "170810",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:39 PM"
+  },
+  {
+    "employee_id": "231299",
+    "total_quantity": 7,
+    "first_timestamp": "29 Nov 2025, 03:40 PM"
+  },
+  {
+    "employee_id": "200484",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 03:40 PM"
+  },
+  {
+    "employee_id": "210709",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:41 PM"
+  },
+  {
+    "employee_id": "200133",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:41 PM"
+  },
+  {
+    "employee_id": "240059",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:42 PM"
+  },
+  {
+    "employee_id": "180223",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:43 PM"
+  },
+  {
+    "employee_id": "190002",
+    "total_quantity": 8,
+    "first_timestamp": "29 Nov 2025, 03:43 PM"
+  },
+  {
+    "employee_id": "140442",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:44 PM"
+  },
+  {
+    "employee_id": "190511",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:47 PM"
+  },
+  {
+    "employee_id": "110146",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:48 PM"
+  },
+  {
+    "employee_id": "200256",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:49 PM"
+  },
+  {
+    "employee_id": "100092",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:50 PM"
+  },
+  {
+    "employee_id": "250331",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 03:51 PM"
+  },
+  {
+    "employee_id": "210552",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:51 PM"
+  },
+  {
+    "employee_id": "160235",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:52 PM"
+  },
+  {
+    "employee_id": "190490",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 03:53 PM"
+  },
+  {
+    "employee_id": "160181",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:54 PM"
+  },
+  {
+    "employee_id": "90039",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 03:55 PM"
+  },
+  {
+    "employee_id": "210314",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 03:55 PM"
+  },
+  {
+    "employee_id": "160089",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:58 PM"
+  },
+  {
+    "employee_id": "231266",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 03:58 PM"
+  },
+  {
+    "employee_id": "100129",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 04:02 PM"
+  },
+  {
+    "employee_id": "250173",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:04 PM"
+  },
+  {
+    "employee_id": "70059",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:06 PM"
+  },
+  {
+    "employee_id": "240130",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:07 PM"
+  },
+  {
+    "employee_id": "161260",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:08 PM"
+  },
+  {
+    "employee_id": "230956",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 04:09 PM"
+  },
+  {
+    "employee_id": "210272",
+    "total_quantity": 6,
+    "first_timestamp": "29 Nov 2025, 04:13 PM"
+  },
+  {
+    "employee_id": "70013",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 04:14 PM"
+  },
+  {
+    "employee_id": "230924",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 04:14 PM"
+  },
+  {
+    "employee_id": "100053",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 04:15 PM"
+  },
+  {
+    "employee_id": "180192",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 04:16 PM"
+  },
+  {
+    "employee_id": "190289",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:21 PM"
+  },
+  {
+    "employee_id": "220363",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:25 PM"
+  },
+  {
+    "employee_id": "110112",
+    "total_quantity": 3,
+    "first_timestamp": "29 Nov 2025, 04:26 PM"
+  },
+  {
+    "employee_id": "231096",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 04:31 PM"
+  },
+  {
+    "employee_id": "210283",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:31 PM"
+  },
+  {
+    "employee_id": "210409",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 04:33 PM"
+  },
+  {
+    "employee_id": "140489",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:33 PM"
+  },
+  {
+    "employee_id": "231249",
+    "total_quantity": 7,
+    "first_timestamp": "29 Nov 2025, 04:35 PM"
+  },
+  {
+    "employee_id": "160781",
+    "total_quantity": 10,
+    "first_timestamp": "29 Nov 2025, 04:38 PM"
+  },
+  {
+    "employee_id": "150376",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 04:38 PM"
+  },
+  {
+    "employee_id": "230348",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 04:41 PM"
+  },
+  {
+    "employee_id": "230518",
+    "total_quantity": 2,
+    "first_timestamp": "29 Nov 2025, 04:42 PM"
+  },
+  {
+    "employee_id": "210061",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 04:44 PM"
+  },
+  {
+    "employee_id": "210693",
+    "total_quantity": 5,
+    "first_timestamp": "29 Nov 2025, 04:56 PM"
+  },
+  {
+    "employee_id": "231281",
+    "total_quantity": 1,
+    "first_timestamp": "29 Nov 2025, 04:57 PM"
+  },
+  {
+    "employee_id": "250242",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 04:58 PM"
+  },
+  {
+    "employee_id": "130496",
+    "total_quantity": 4,
+    "first_timestamp": "29 Nov 2025, 04:59 PM"
+  }
+]
